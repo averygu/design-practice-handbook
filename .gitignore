@@ -1,0 +1,22 @@
+# 本地过程材料永不随出版目录提交。
+.DS_Store
+__pycache__/
+*.pyc
+.env
+.env.*
+*.private.*
+private/
+raw/
+downloads/
+notion-exports/
+media-audit/
+*.zip
+*.mp4
+*.mov
+*.qt
+*.pdf
+*.docx
+*.xlsx
+*.pptx
+
+# 具体可发布文件另见 release-files.txt；忽略规则不替代内容审查。
