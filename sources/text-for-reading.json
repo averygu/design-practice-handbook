@@ -1,0 +1,437 @@
+{
+  "chapter": "book/04-text-for-reading.md",
+  "status": "secondary-note text and written visual observations used; official catalogue and selected technical boundaries checked; original-edition comparison not performed",
+  "media_scope": {
+    "course_pages": 8,
+    "image_references_observed": 40,
+    "unique_image_count": null,
+    "page_context_visual_review_complete": true,
+    "asset_identity_verified": false,
+    "independent_reinspection_by_chapter_writer": false,
+    "video_audio_attachment_review_claim": "none"
+  },
+  "original_synthesis": [
+    "Reading roles organized around comprehension, finding information and taking action.",
+    "Anonymous feedback and recording-task examples with explicitly fictional data.",
+    "Chinese reading and mixed-content validation plan, not observed learner outcomes.",
+    "Original two-pass font trial method informed by the primary reviewer's written font-specimen observations; the chapter writer did not independently re-view those images. Typeface specifications and current licensing were not verified, no user comparison was run, and this addition does not change the existing media_scope counts."
+  ],
+  "sources": [
+    {
+      "source_id": "RUI-TEXT-01",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Establish a type scale",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "A role-based scale is a design aid, not proof that fractional CSS values are invalid.",
+        "The note's blanket ban on em is too strong; inherited context and property use must be distinguished.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-02",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Use good fonts",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Five weights or ten styles do not establish font quality, project suitability, language coverage, licensing or performance.",
+        "The font-picker screenshot's site identity was not confirmed; it must not be described as the current Google Fonts interface.",
+        "Latin x-height comparisons do not replace inspection of Chinese glyphs and mixed-language text.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-03",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Keep your line length in check",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The 45–75 character examples are English; no equivalent fixed Chinese character range is inferred.",
+        "Em-based width is not an exact character count across writing systems and fonts.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-04",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Baseline, not center",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "A baseline is not the lowest edge of every glyph.",
+        "Baseline alignment applies to selected adjacent text, not every avatar, icon, button or multiline component.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-05",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Line-height is proportional",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The illustrative range 1–2 is not a universal lower or upper line-height limit.",
+        "Line height is not simply empty space between glyph outlines.",
+        "User spacing adaptation is checked independently of default visual choices.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-06",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Not every link needs a color",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Reducing visual emphasis does not establish discoverability across touch and keyboard input.",
+        "Hover-only underline is a style change, not extra content under WCAG 1.4.13.",
+        "Static video-list screenshots do not count as watched videos.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-07",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Align with readability in mind",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 7,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Right alignment alone does not align decimal points when precision, units or suffixes differ.",
+        "Do not remove necessary conditions just to equalize line counts.",
+        "Latin hyphenation does not replace Chinese punctuation and line-break handling.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-TEXT-08",
+      "collection": "Refactoring UI / Designing Text",
+      "title": "Use letter-spacing effectively",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "matching Designing Text catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, retaining image marker text; export completeness against live page not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Negative tracking examples for Latin titles do not establish defaults for Chinese headings.",
+        "Changes between typefaces include shape and weight differences, not only letter spacing.",
+        "All-caps Latin examples are not universal navigation or language rules.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "W3C-TEXT-SPACING",
+      "title": "Text Spacing 1.4.12",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#text-spacing",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "simultaneous user overrides at specified spacing thresholds, language applicability and preservation of content/function; not author default values",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-RESIZE-TEXT",
+      "title": "Resize Text 1.4.4",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#resize-text",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "text enlargement to 200 percent, exceptions and preservation of content/function; no mandatory custom size controls",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-REFLOW",
+      "title": "Reflow 1.4.10",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#reflow",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "320 CSS px vertical-content width and 256 CSS px horizontal-content height; necessary two-dimensional content exceptions are scoped",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-HOVER-FOCUS",
+      "title": "Content on Hover or Focus 1.4.13",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#content-on-hover-or-focus",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "additional-content scope, dismissible/hoverable/persistent conditions and exceptions; not hover-only underline styling",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-STRUCTURE",
+      "title": "Info and Relationships 1.3.1",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#info-and-relationships",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "programmatically determinable or text-provided relationships; visual alignment does not itself establish table headers",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-COLOR-USE",
+      "title": "Use of Color 1.4.1",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#use-of-color",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "color as sole visual means; distinguish hue from sufficiently significant lightness contrast",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-KEYBOARD",
+      "title": "Keyboard 2.1.1",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#keyboard",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "keyboard-operable functionality and applicable exceptions; not inferred from hover styling",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-FOCUS-VISIBLE",
+      "title": "Focus Visible 2.4.7",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official explanatory guidance for WCAG 2.2",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html",
+      "normative_criterion_url": "https://www.w3.org/TR/WCAG22/#focus-visible",
+      "version_status": "Understanding is explanatory, not a replacement for the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "visible keyboard focus indicator; static underline is not necessarily a focus indicator",
+      "evidence_limits": [
+        "Selected technical boundary checked by independent source reviewer; not a complete WCAG review or implemented-product audit."
+      ]
+    },
+    {
+      "source_id": "W3C-G183",
+      "title": "G183: Using a contrast ratio of at least 3:1 to distinguish inline text links from surrounding text",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official sufficient technique for WCAG",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Techniques/general/G183",
+      "page_last_updated_observed": "2026-07-27",
+      "checked_on": "2026-10-30",
+      "review_scope": "current technique permits at least 3:1 lightness contrast against surrounding static text; current test list does not add a hover/focus cue requirement",
+      "evidence_limits": [
+        "Sufficient technique, not the only permitted design.",
+        "Contrast with the background and keyboard/focus requirements remain separate.",
+        "Permanent underlines are this chapter's design choice, not claimed as the only WCAG-compliant style."
+      ]
+    },
+    {
+      "source_id": "W3C-CSS-UNITS",
+      "title": "CSS Values and Units Module Level 4, section 6.1.1",
+      "creator": "W3C CSS Working Group",
+      "source_type": "official technical draft",
+      "public_url": "https://www.w3.org/TR/css-values-4/#font-relative-lengths",
+      "version_url": "https://www.w3.org/TR/2024/WD-css-values-4-20240312/",
+      "version_status": "Working Draft, 12 March 2024",
+      "checked_on": "2026-10-30",
+      "review_scope": "em, rem and inherited font-size context; font-relative widths are not literal language-independent character counts",
+      "evidence_limits": [
+        "Selected definitions checked by chapter writer; not the full draft or browser compatibility."
+      ]
+    },
+    {
+      "source_id": "W3C-TEXT-SPACING-NOTE-QUOTE",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2, SC 1.4.12, Note 1",
+      "creator": "W3C Accessibility Guidelines Working Group",
+      "source_type": "official W3C Recommendation; explanatory note within the specification",
+      "usage_type": "direct_quote",
+      "public_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/#text-spacing",
+      "canonical_criterion_url": "https://www.w3.org/TR/WCAG22/#text-spacing",
+      "publication_date": "2024-12-12",
+      "version_status": "Recommendation, 12 December 2024; the quoted sentence is an explanatory note, not a separate success criterion.",
+      "verified_on": "2026-10-30",
+      "public_source_verification": "Exact sentence, SC 1.4.12 conditions, language exception, adjacent note text, working-group attribution and fixed-version date checked on the W3C page.",
+      "review_scope": "SC 1.4.12 and Note 1; selected webpage text, not the complete specification or media.",
+      "claim_supported": "The listed text-spacing values are not mandatory author defaults; applicable simultaneous user overrides must preserve content and functionality.",
+      "chapter_location": "Section 2: 保留用户调整间距的空间",
+      "quote": {
+        "source_location": "SC 1.4.12 Text Spacing, Note 1, first sentence.",
+        "original_text": "Content is not required to use these text spacing values.",
+        "english_word_count": 10,
+        "translation_zh": "内容不必采用这些文字间距值。",
+        "translation_credit": "本章译",
+        "omissions_or_changes": "None; one complete contiguous sentence, with original punctuation."
+      },
+      "quote_budget": {
+        "english_word_limit_per_source": 25,
+        "distinct_excerpt_words": 10,
+        "public_tree_verbatim_occurrences": 2,
+        "words_including_repeated_provenance": 20,
+        "scope": "Quoted prose in chapter and this provenance record; bibliographic metadata excluded; checked on 2026-10-30."
+      },
+      "reuse_basis": "Minimal attributed quotation for explaining the distinction between author defaults and the user-override requirement; no broader licence or redistribution permission is asserted.",
+      "limitations": [
+        "The note must be read with the success criterion: capable markup, no other style-property changes, applicable simultaneous spacing overrides, and no loss of content or functionality.",
+        "Language and writing-system exceptions remain relevant; the quote does not remove the success criterion.",
+        "This web-content standard is not a universal print or native-platform typography rule.",
+        "No full WCAG review, implemented-product conformance or additional course-media review is claimed."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,257 @@
+{
+  "status": "collection-level register; not a verified bibliography",
+  "media_review": "in progress; no completion claim",
+  "groups": [
+    {
+      "group_id": "google-ux",
+      "label": "Google UX Design Professional Certificate",
+      "topics": [
+        "任务定义",
+        "研究",
+        "原型",
+        "演示"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "apple-design",
+      "label": "Apple Design",
+      "topics": [
+        "内容",
+        "引导",
+        "原生交互",
+        "平台适配"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "nngroup",
+      "label": "NNGroup Topics",
+      "topics": [
+        "任务研究",
+        "信息架构",
+        "内容设计",
+        "验证"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "laws-of-ux",
+      "label": "Laws of UX 2.0",
+      "topics": [
+        "认知机制",
+        "分组",
+        "交互启发"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "product-reference",
+      "label": "Global Product Reference",
+      "topics": [
+        "案例发现目录"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "material-design",
+      "label": "Google Material Design",
+      "topics": [
+        "组件任务",
+        "语义状态",
+        "布局",
+        "内容"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "ux-metrics",
+      "label": "UX Metrics and ROI",
+      "topics": [
+        "指标",
+        "基准",
+        "成败案例"
+      ],
+      "individual_sources": "Official publisher description verified for chapter 09; locally held PDF copy not authenticated. See metrics-and-learning.json.",
+      "public_url": "https://www.nngroup.com/reports/ux-metrics-roi/",
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included",
+      "release_use": "Original measurement chapter only; no original PDF pages, images, case-growth figures or private review ledger included."
+    },
+    {
+      "group_id": "google-fonts",
+      "label": "Google Fonts",
+      "topics": [
+        "可读性",
+        "多语言",
+        "字体角色"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "digital-icons",
+      "label": "Digital Icons That Work",
+      "topics": [
+        "图标意义",
+        "情境",
+        "理解测试"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "refactoring-ui",
+      "label": "Refactoring UI",
+      "topics": [
+        "层级",
+        "间距",
+        "文字",
+        "视觉精修"
+      ],
+      "individual_sources": "first 49 secondary-note pages scoped in eight chapter registers; official publication/catalogue checked; original-edition comparison pending",
+      "public_url": "https://refactoringui.com/",
+      "media_coverage": "current edition uses 278 image-reference observations across 49 pages; not a unique-asset count or whole-collection claim",
+      "publication_reuse": "original synthesis only; no source files included",
+      "underlying_work_id": "RUI-WORK"
+    },
+    {
+      "group_id": "sajid-ui",
+      "label": "Sajid Code UI",
+      "topics": [
+        "视觉结构",
+        "设计表达"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "shape-ai",
+      "label": "Shape of AI",
+      "topics": [
+        "历史AI模式与案例"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "shape-ai-2",
+      "label": "Shape of AI 2.0",
+      "topics": [
+        "AI入口",
+        "输入",
+        "控制",
+        "来源"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "aiux-interactions",
+      "label": "AI-UX interactions",
+      "topics": [
+        "人机协作",
+        "上下文",
+        "多模态"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "medium-aiux",
+      "label": "Medium AIUX",
+      "topics": [
+        "引导",
+        "多语言",
+        "AI体验案例"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "ux-portfolio",
+      "label": "Guide to a successful UX portfolio",
+      "topics": [
+        "叙事",
+        "案例表达"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "airbnb-design",
+      "label": "Airbnb Design",
+      "topics": [
+        "服务",
+        "产品价值",
+        "故事表达"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "duolingo-handbook",
+      "label": "THE DUOLINGO HANDBOOK",
+      "topics": [
+        "产品文化",
+        "角色",
+        "行动引导"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    },
+    {
+      "group_id": "ai-product-management",
+      "label": "AI Product Manager",
+      "topics": [
+        "问题",
+        "价值",
+        "反馈",
+        "发布"
+      ],
+      "individual_sources": "pending public source verification",
+      "public_url": null,
+      "media_coverage": "not certified complete",
+      "publication_reuse": "original synthesis only; no source files included"
+    }
+  ],
+  "release_scope": "Chapters 01–08 use visual observations from the first eight Refactoring UI topic groups. Chapter 09 adds limited local PDF reading inspiration and six public sources with explicitly bounded text review. Other entries remain a research roadmap; no whole-collection completion claim is increased."
+}

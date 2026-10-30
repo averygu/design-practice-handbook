@@ -1,0 +1,174 @@
+{
+  "schema_version": "1.0",
+  "title": "指标、实验与学习效果",
+  "chapter_number": 9,
+  "status": "original chapter preview; independent prose and rendered-diagram review completed; examples not empirically tested",
+  "checked_on": "2026-10-30",
+  "scope": "Complete original prose with two fictional design examples and three original SVG mechanism drafts. No real participant, software experiment, or learning-outcome result is asserted.",
+  "originality": {
+    "examples": [
+      "练习记录导出：内容正确、结果可取回、失败可恢复",
+      "英语因果表达：首答、提示、重试、相近新题、延迟复查"
+    ],
+    "arithmetic_data": "All numerical teaching examples are invented and explicitly labelled; they are not reported study results.",
+    "figures": [
+      "09-metric-contract.svg",
+      "09-comparison-boundaries.svg",
+      "09-learning-evidence.svg"
+    ],
+    "source_media_included": false,
+    "private_source_identifiers_included": false
+  },
+  "sources": [
+    {
+      "source_id": "METRIC-GOOGLE-2010",
+      "title": "Measuring the User Experience on a Large Scale: User-Centered Metrics for Web Applications",
+      "creator": [
+        "Kerry Rodden",
+        "Hilary Hutchinson",
+        "Xin Fu"
+      ],
+      "publisher": "Google Research publication page; proceedings CHI 2010, ACM Press",
+      "year": 2010,
+      "public_url": "https://research.google/pubs/measuring-the-user-experience-on-a-large-scale-user-centered-metrics-for-web-applications/",
+      "source_type": "official author-affiliated publication metadata and abstract",
+      "reviewed_scope": "Title, authors, publication venue/year and complete abstract only.",
+      "supports": [
+        "Start with product goals when choosing UX metrics."
+      ],
+      "limits": [
+        "Full paper and its figures were not reviewed in this task.",
+        "The chapter's definition table and examples are original synthesis, not a reproduced HEART table."
+      ],
+      "checked_on": "2026-10-30",
+      "media_review": "Specified webpage text only; no webpage images, video, audio or interactive examples viewed/operated.",
+      "reuse_basis": "Short paraphrase and attribution; no verbatim quotations or source media reproduced."
+    },
+    {
+      "source_id": "METRIC-NIST-RANDOM",
+      "title": "5.3.3.1. Completely randomized designs",
+      "creator": "NIST/SEMATECH",
+      "public_url": "https://www.itl.nist.gov/div898/handbook/pri/section3/pri331.htm",
+      "publication_date": null,
+      "source_type": "official statistics handbook section",
+      "reviewed_scope": "Text of section5.3.3.1 including random assignment, sequence example and stated design context.",
+      "supports": [
+        "Random assignment of primary-factor levels to experimental units differs from a fixed condition sequence."
+      ],
+      "limits": [
+        "Not a complete online experimentation or educational cluster-trial guide.",
+        "No universal sample size, duration or significance rule inferred."
+      ],
+      "checked_on": "2026-10-30",
+      "media_review": "Specified webpage text only; no webpage images, video, audio or interactive examples viewed/operated.",
+      "reuse_basis": "Short paraphrase and attribution; no verbatim quotations or source media reproduced."
+    },
+    {
+      "source_id": "METRIC-CANADA-2019",
+      "title": "Measuring Impact by Design - A Guide to Methods for Impact Measurement",
+      "creator": "Impact and Innovation Unit, Privy Council Office, Government of Canada",
+      "year": 2019,
+      "public_url": "https://impact.canada.ca/en/reports/measuring-impact-by-design",
+      "source_type": "official government methods guidance",
+      "reviewed_scope": "Selected text in5.1 Randomized Controlled Trial and5.6 Non-Experimental Methods, with before-after time-effect limits and publication information.",
+      "supports": [
+        "Randomization balances group characteristics in expectation.",
+        "Simple before-after outcomes also reflect other contemporaneous changes."
+      ],
+      "limits": [
+        "Only specified sections read; embedded figures and full PDF not reviewed.",
+        "Execution failures, missing data and external validity still constrain conclusions.",
+        "No causal guarantee for the chapter's unrun examples."
+      ],
+      "checked_on": "2026-10-30",
+      "media_review": "Specified webpage text only; no webpage images, video, audio or interactive examples viewed/operated.",
+      "reuse_basis": "Short paraphrase and attribution; no verbatim quotations or source media reproduced."
+    },
+    {
+      "source_id": "LEARNING-IES-2007",
+      "title": "Organizing Instruction and Study to Improve Student Learning",
+      "creator": [
+        "Harold Pashler (chair)",
+        "Patrice M. Bain",
+        "Brian A. Bottge",
+        "Arthur Graesser",
+        "Kenneth Koedinger",
+        "Mark McDaniel",
+        "Janet Metcalfe"
+      ],
+      "publisher": "Institute of Education Sciences / What Works Clearinghouse",
+      "publication_date": "2007-09",
+      "public_url": "https://ies.ed.gov/ncee/wwc/PracticeGuide/1",
+      "source_type": "official practice-guide recommendations page",
+      "reviewed_scope": "Recommendation list, brief expansions, evidence levels and panel names.",
+      "supports": [
+        "General directions for spaced review, worked-example/problem alternation and active retrieval."
+      ],
+      "limits": [
+        "Full guide and underlying primary studies were not systematically reviewed in this task.",
+        "Evidence levels differ across recommendations.",
+        "No claim that this exact English exercise, hint order or one-week interval has been validated."
+      ],
+      "checked_on": "2026-10-30",
+      "media_review": "Specified webpage text only; no webpage images, video, audio or interactive examples viewed/operated.",
+      "reuse_basis": "Short paraphrase and attribution; no verbatim quotations or source media reproduced."
+    },
+    {
+      "source_id": "LEARNING-NRC-2000",
+      "title": "How People Learn: Brain, Mind, Experience, and School: Expanded Edition - Chapter10 Conclusions, Transfer of Learning",
+      "creator": "National Research Council",
+      "publisher": "National Academies Press",
+      "year": 2000,
+      "doi": "10.17226/9853",
+      "public_url": "https://www.nationalacademies.org/read/9853/chapter/15",
+      "source_type": "official publisher text of consensus-report section",
+      "reviewed_scope": "Transfer of Learning section, printed pp235–237 as labelled by online reader; text only.",
+      "supports": [
+        "Transfer depends on understanding and context.",
+        "Time spent alone is not sufficient.",
+        "A one-shot transfer test does not settle learning and transfer."
+      ],
+      "limits": [
+        "Historic consensus report, not claimed as latest evidence synthesis.",
+        "Other chapters and page images not reviewed.",
+        "Chapter's two-track record is original application, not a validated intervention from the source."
+      ],
+      "checked_on": "2026-10-30",
+      "media_review": "Specified webpage text only; no webpage images, video, audio or interactive examples viewed/operated.",
+      "reuse_basis": "Short paraphrase and attribution; no verbatim quotations or source media reproduced."
+    },
+    {
+      "source_id": "METRIC-NNG-5-META",
+      "title": "UX Metrics and ROI",
+      "creator": "Nielsen Norman Group (publishing organization; individual authors not independently verified on this page)",
+      "version": "5th Edition",
+      "public_url": "https://www.nngroup.com/reports/ux-metrics-roi/",
+      "publication_date": null,
+      "source_type": "official publisher report description",
+      "reviewed_scope": "Report title, edition, described coverage and statement that reported outcomes include positive, neutral and negative examples.",
+      "supports": [
+        "Design changes need observed outcomes; reports include non-success cases."
+      ],
+      "limits": [
+        "Publisher page does not authenticate a separately held local copy.",
+        "No private case-study figures, reported growth numbers or original report images reused.",
+        "Not a complete review of the publisher's report."
+      ],
+      "checked_on": "2026-10-30",
+      "media_review": "Specified webpage text only; no webpage images, video, audio or interactive examples viewed/operated.",
+      "reuse_basis": "Short paraphrase and attribution; no verbatim quotations or source media reproduced."
+    }
+  ],
+  "chapter": "book/09-metrics-and-learning.md",
+  "local_attachment_inspiration": {
+    "title": "UX Metrics and ROI",
+    "reviewed_scope": "Chapter writer read the available text and actually viewed every complete rendered physical page 101–200 of a locally held PDF copy. Small embedded screenshot text has explicit legibility limits.",
+    "provenance": "Local copy not authenticated as the publisher original or a current online attachment. This statement does not claim a complete-book review or increase collection-level completion.",
+    "reuse": "General measurement and interpretation questions informed the original chapter. No local PDF file, original page images, case-growth figures, private source locators or discrepancy ledger are included."
+  },
+  "independent_review": {
+    "date": "2026-10-30",
+    "scope": "Another manuscript editor independently read the complete prose and actually viewed all three final rendered PNGs; no figure-text mismatch or clipping found.",
+    "limits": "Not a second item-by-item reopening of all public sources; not an experiment, user test or learning-outcome validation."
+  }
+}

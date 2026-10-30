@@ -1,0 +1,213 @@
+{
+  "chapter": "book/03-space-and-density.md",
+  "status": "secondary-note scope recorded; official underlying publication and catalogue verified; original-edition comparison not performed",
+  "media_scope": {
+    "course_pages": 6,
+    "image_references_observed": 40,
+    "unique_image_count": null,
+    "page_context_visual_review_complete": true,
+    "asset_identity_verified": false,
+    "video_audio_attachment_review_claim": "none"
+  },
+  "original_synthesis": [
+    "Five spatial roles as a diagnostic structure.",
+    "Anonymous sentence-revision and teacher-comparison examples.",
+    "Task-based execution and validation steps; no observed learner outcome."
+  ],
+  "sources": [
+    {
+      "source_id": "RUI-SPACE-01",
+      "collection": "Refactoring UI / Layout and Spacing",
+      "title": "Start with too much white space",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "publication and matching catalogue entry checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, including retained image markers; no claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Whitespace is an exploration variable, not an instruction to maximize empty area.",
+        "Source includes a dense information interface; task-dependent density remains necessary.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-SPACE-02",
+      "collection": "Refactoring UI / Layout and Spacing",
+      "title": "Establish a spacing and sizing system",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "publication and matching catalogue entry checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, including retained image markers; no claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The written minimum 25 percent step conflicts with the illustrated 640-to-768 step of 20 percent.",
+        "Keep finite candidates and repeated roles, not a universal numerical ratio or base size.",
+        "Small container changes may matter at wrapping or interaction boundaries.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-SPACE-03",
+      "collection": "Refactoring UI / Layout and Spacing",
+      "title": "You don’t have to fill the whole screen",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "publication and matching catalogue entry checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, including retained image markers; no claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 7,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Example widths are not universal viewport or component requirements.",
+        "Physical phone pixels must not be confused with CSS viewport dimensions.",
+        "The cart illustration has inconsistent item counts; it is not transaction evidence.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-SPACE-04",
+      "collection": "Refactoring UI / Layout and Spacing",
+      "title": "Grids are overrated",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "publication and matching catalogue entry checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, including retained image markers; no claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 11,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The note describes a percentage-column approach, not the full capabilities of CSS Grid.",
+        "A stable-width area still requires a strategy for narrow windows and larger text.",
+        "CSS Grid track types were independently checked against the official specification.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-SPACE-05",
+      "collection": "Refactoring UI / Layout and Spacing",
+      "title": "Relative sizing doesn’t scale",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "publication and matching catalogue entry checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, including retained image markers; no claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 6,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The illustrated 14px mobile body and 12px small button are not defaults for Chinese text or touch targets.",
+        "Visual button dimensions are not sufficient evidence for interactive target size.",
+        "Relative units are not prohibited; each relationship requires contextual checks.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-SPACE-06",
+      "collection": "Refactoring UI / Layout and Spacing",
+      "title": "Avoid ambiguous spacing",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "publication and matching catalogue entry checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer, including retained image markers; no claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 6,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The text suggests increasing between-group spacing; the form illustration keeps that gap and reduces within-group spacing.",
+        "The final image has cropped numeric details; unobserved values are not reconstructed.",
+        "Grouping may also be conveyed by labels, alignment, borders or surfaces.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "W3C-GRID-TRACKS",
+      "title": "CSS Grid Layout Module Level 1, sections 7.2 and 7.2.1",
+      "creator": "W3C CSS Working Group",
+      "source_type": "official technical specification",
+      "public_url": "https://www.w3.org/TR/css-grid-1/#track-sizing",
+      "version_url": "https://www.w3.org/TR/2025/CRD-css-grid-1-20250326/",
+      "version_status": "Candidate Recommendation Draft, 26 March 2025",
+      "checked_on": "2026-10-30",
+      "review_scope": "track sizing syntax: length-percentage, flexible units, min-content, max-content, auto, minmax(), fit-content()",
+      "evidence_limits": [
+        "Not a complete reading or conformance review of the CSS Grid specification.",
+        "No browser compatibility or implemented layout tested by this source check."
+      ]
+    }
+  ]
+}

@@ -1,0 +1,342 @@
+{
+  "chapter": "book/08-finish-and-real-states.md",
+  "status": "secondary-note text and written visual observations used; official catalogue and selected technical boundaries checked; original-edition comparison not performed",
+  "media_scope": {
+    "course_pages": 6,
+    "image_references_observed": 32,
+    "unique_image_count": null,
+    "page_context_visual_review_complete": true,
+    "asset_identity_verified": false,
+    "independent_reinspection_by_chapter_writer": false,
+    "video_audio_attachment_review_claim": "none"
+  },
+  "original_synthesis": [
+    "Separate decoration, grouping, necessary boundaries, current location, selection and focus.",
+    "Four anonymous teaching-feedback empty states distinguish cause, truthful explanation and useful next action.",
+    "Controlled boundary comparison and semantics-preserving restyling diagrams; no product or learning-outcome claims."
+  ],
+  "sources": [
+    {
+      "source_id": "RUI-FINISH-01",
+      "collection": "Refactoring UI / Finishing Touches",
+      "title": "Supercharge the defaults",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "six matching Finishing Touches catalogue titles checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Check marks, lock icons and quotes do not establish completed tasks, security or genuine testimonials; visual control styling does not implement behavior.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-FINISH-02",
+      "collection": "Refactoring UI / Finishing Touches",
+      "title": "Add color with accent borders",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "six matching Finishing Touches catalogue titles checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Distinguish decoration, current page, selection and focus; a colored accent alone does not establish semantic state.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-FINISH-03",
+      "collection": "Refactoring UI / Finishing Touches",
+      "title": "Decorate your backgrounds",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "six matching Finishing Touches catalogue titles checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 8,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Backgrounds and gradients need local content contrast checks; decorative maps, dots and waves are not factual data.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-FINISH-04",
+      "collection": "Refactoring UI / Finishing Touches",
+      "title": "Don’t overlook empty states",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "six matching Finishing Touches catalogue titles checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "First use differs from filtered results, loading, failure, permissions and completed work; keep needed recovery controls.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-FINISH-05",
+      "collection": "Refactoring UI / Finishing Touches",
+      "title": "Use fewer borders",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "six matching Finishing Touches catalogue titles checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Remove redundant boundaries selectively, retaining necessary control, data and focus relationships; example spacing and shadows are not defaults.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-FINISH-06",
+      "collection": "Refactoring UI / Finishing Touches",
+      "title": "Think outside the box",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "six matching Finishing Touches catalogue titles checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 7,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Simple menus can work; richer navigation requires implementation checks, combined table fields must retain needed comparison/sort abilities, radio cards retain radio semantics and behavior.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "CARBON-FINISH-EMPTY",
+      "title": "Empty states",
+      "creator": "IBM Carbon",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.carbondesignsystem.com/building-blocks/core/patterns/empty-states",
+      "checked_on": "2026-10-30",
+      "review_scope": "Overview, anatomy, first-use/user-action/error/permission types and small-context treatment; selected text sections, not the entire design system.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Design-system guidance; optional illustration and action depend on context, not a universal component mandate.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-STATUS",
+      "title": "Understanding SC 4.1.3 Status Messages",
+      "creator": "W3C WAI",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "AA conditions, intent and examples of programmatically determinable status messages without context change or focus.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Not all newly displayed content is a status message; not every update should become an interruptive alert.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-RADIO",
+      "title": "Radio Group Pattern",
+      "creator": "W3C WAI APG",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/ARIA/apg/patterns/radio/",
+      "checked_on": "2026-10-30",
+      "review_scope": "Radio group semantics, ordinary keyboard interaction, toolbar distinction and browser initial-focus note.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Pattern guidance does not add behavior automatically or certify a custom implementation.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-NAV",
+      "title": "Disclosure Navigation Menu Example",
+      "creator": "W3C WAI APG",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/ARIA/apg/patterns/disclosure/examples/disclosure-navigation/",
+      "checked_on": "2026-10-30",
+      "review_scope": "Introductory cautions, ordinary navigation versus ARIA menu, accessibility and keyboard descriptions.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Interactive example not operated; example code is not presumed production-ready.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-ARIA",
+      "title": "Read Me First",
+      "creator": "W3C WAI APG",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/ARIA/apg/practices/read-me-first/",
+      "checked_on": "2026-10-30",
+      "review_scope": "Role as a behavioral promise, native semantics, risks of incorrect ARIA and testing limits.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Text-only guidance; no assistive-technology testing performed for the illustrations.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-CURRENT",
+      "title": "WAI-ARIA 1.2: aria-current",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/TR/wai-aria-1.2/#aria-current",
+      "checked_on": "2026-10-30",
+      "review_scope": "aria-current definition, values, one-current-item recommendation and distinction from aria-selected.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "W3C Recommendation dated 2023-06-06; only this attribute section read, not the entire ARIA specification.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-TABLES",
+      "title": "Tables Tutorial",
+      "creator": "W3C WAI",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/tutorials/tables/",
+      "checked_on": "2026-10-30",
+      "review_scope": "Introduction, data/header relationships, captions and overview of simple/complex table structure.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Does not validate any example table or dictate that all content must be a data table.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-LABELS",
+      "title": "Labeling Controls",
+      "creator": "W3C WAI",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/tutorials/forms/labels/",
+      "checked_on": "2026-10-30",
+      "review_scope": "Visible/associated labels, label activation area and relevant form-label methods.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "No generated form or assistive-technology test; visual text alone is not assumed programmatically associated.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-GROUPS",
+      "title": "Grouping Controls",
+      "creator": "W3C WAI",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/tutorials/forms/grouping/",
+      "checked_on": "2026-10-30",
+      "review_scope": "Visual and programmatic grouping, fieldset/legend, radio/checkbox examples and alternative grouping description.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Native fieldset/legend is an appropriate approach, not the only possible conforming mechanism.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-BOUNDARY",
+      "title": "Understanding SC 1.4.11 Non-text Contrast",
+      "creator": "W3C WAI",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "Necessary control/state/graphic information, adjacent-color contrast and relevant exceptions; prior direct reading retained from depth chapter.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Not every decorative border requires 3:1, and diagrams have not undergone a complete WCAG conformance audit.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    },
+    {
+      "source_id": "W3C-FINISH-FORCED",
+      "title": "CSS Color Adjustment Module Level 1: Properties Affected by Forced Colors Mode",
+      "creator": "W3C CSSWG",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/TR/css-color-adjust-1/#forced-colors-properties",
+      "checked_on": "2026-10-30",
+      "review_scope": "Under active forced colors and forced-color-adjust:auto, box-shadow and text-shadow compute to none; prior direct reading retained from depth chapter.",
+      "media_review": "text only; images, animations, video, audio and interactive examples not viewed or operated",
+      "evidence_limits": [
+        "Read version was 2025-12-16 Candidate Recommendation Snapshot, not a final Recommendation or browser acceptance test.",
+        "No source media included in the publication tree; no original-publication edition comparison."
+      ]
+    }
+  ]
+}

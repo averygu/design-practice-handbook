@@ -1,0 +1,372 @@
+{
+  "chapter": "book/05-color-and-state.md",
+  "status": "original draft; secondary-note scope recorded; selected official technical boundaries checked; no original-edition or asset-identity verification",
+  "media_scope": {
+    "course_pages": 7,
+    "image_references_observed": 50,
+    "unique_image_count": null,
+    "page_context_visual_review_complete": true,
+    "asset_identity_verified": false,
+    "independent_reinspection_by_chapter_writer": false,
+    "video_audio_attachment_review_claim": "none"
+  },
+  "original_synthesis": [
+    "Role and foreground/surface pairing workflow.",
+    "Anonymous exercise-save/submission/error examples and non-color state comparison.",
+    "Independent unrounded sRGB calculations at H160/H280, S70%, L40%; diagrams are not color-vision simulations.",
+    "Task execution and validation plan without product, user or learning-outcome claims."
+  ],
+  "calculation_evidence": {
+    "method": "Python standard-library colorsys.hls_to_rgb followed by WCAG sRGB piecewise linearization at 0.04045, weights 0.2126/0.7152/0.0722 and contrast offset 0.05.",
+    "inputs": "opaque sRGB; H=160 or 280 degrees, S=.7, HSL L=.4; foreground pure white or pure black",
+    "precision": "unrounded converted channels used in calculations; SVG uses fractional RGB channels; displayed ratios rounded only for reading",
+    "reproduce_with": "scripts/build_color_diagrams.py",
+    "limits": "Not a measured display output or general hue brightness ranking. Recompute after color rounding, alpha or background changes."
+  },
+  "sources": [
+    {
+      "source_id": "RUI-COLOR-01",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "Ditch hex for HSL",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 7,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "CSS supports multiple color representations; HSL is not mandatory.",
+        "The source ring chart percentages and visible sector proportions differ; no source chart or statistics are reproduced.",
+        "HSL L is not WCAG relative luminance.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-COLOR-02",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "You need more colors than you think",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 10,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Color family and shade counts are examples, not mandatory quotas.",
+        "Market direction colors depend on locale and domain; green does not universally mean good.",
+        "Irreversible-action language requires an actually irreversible action.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-COLOR-03",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "Define your shades up front",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 7,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Finite reusable choices do not prohibit generated design tokens or CSS color tools.",
+        "Numbering and shade count are conventions; visual continuity is not guaranteed perceptual spacing or contrast.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-COLOR-04",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "Don't let lightness kill your saturation",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 12,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The illustrated square-root formula is not the WCAG relative-luminance formula; its original attribution was not traced.",
+        "Hue-curve extrema apply to the stated fixed saturation and HSL lightness; no universal hue brightness ordering is inferred.",
+        "The suggested hue-rotation range and saturation curve are contextual tuning choices.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-COLOR-05",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "Greys don't have to be grey",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Tinted neutrals are optional and should not override platform roles or color-critical work.",
+        "One hue annotation incorrectly uses a percent sign; it is not copied.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-COLOR-06",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "Accessible doesn't have to mean ugly",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 6,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The 18-pixel large-text boundary in the secondary text is corrected using WCAG and CSS units.",
+        "AAA-labeled examples with a cross express hierarchy preferences, not failure of their stated contrast ratio.",
+        "Source screenshot ratios were not independently recomputed and are not used as original evidence.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-COLOR-07",
+      "collection": "Refactoring UI / Working with Color",
+      "title": "Don't rely on color alone",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all seven Working with Color catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The source prose calls an example a line chart, but the observer saw a ring chart.",
+        "Luminance differences and static color-vision simulation do not establish full accessibility.",
+        "Direction, comparison basis and meaning need explicit cues.",
+        "No original course media is included in this publication tree."
+      ]
+    },
+    {
+      "source_id": "W3C-COLOR4",
+      "title": "CSS Color Module Level 4",
+      "creator": "W3C CSS Working Group",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/TR/css-color-4/",
+      "version_status": "Candidate Recommendation Draft, 29 October 2026",
+      "checked_on": "2026-10-30",
+      "review_scope": "Selected color grammar, HSL conversion and perceptual limits, Oklab/OkLCh and system-color roles; not the full specification or browser compatibility.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ],
+      "version_url": "https://www.w3.org/TR/2026/CRD-css-color-4-20261029/"
+    },
+    {
+      "source_id": "W3C-WCAG22",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/TR/WCAG22/",
+      "version_status": "W3C Recommendation, 12 December 2024",
+      "checked_on": "2026-10-30",
+      "review_scope": "Success criteria 1.4.1, 1.4.3, 1.4.6, 1.4.11; large-scale text definition including CJK equivalents; no full conformance audit.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ],
+      "version_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/"
+    },
+    {
+      "source_id": "W3C-CSS-ABSOLUTE-LENGTHS",
+      "title": "CSS Values and Units Module Level 4, section 6.2",
+      "creator": "W3C CSS Working Group",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/TR/css-values-4/#absolute-lengths",
+      "version_status": "Working Draft, 12 March 2024",
+      "checked_on": "2026-10-30",
+      "review_scope": "Fixed CSS unit ratios: one inch equals 96 CSS pixels and 72 points; reference pixels differ from device pixels.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ],
+      "version_url": "https://www.w3.org/TR/2024/WD-css-values-4-20240312/"
+    },
+    {
+      "source_id": "W3C-CONTRAST-TEXT",
+      "title": "Understanding SC 1.4.3 Contrast (Minimum)",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "version_status": "Explanatory guidance, not the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "Selected thresholds, exceptions, large text, no threshold rounding, actual backgrounds, sRGB relative-luminance and contrast definitions.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-CONTRAST-NONTEXT",
+      "title": "Understanding SC 1.4.11 Non-text Contrast",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html",
+      "version_status": "Explanatory guidance, not the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "Necessary control/state/graphic information against adjacent colors; exceptions; not all decorative borders or sequential states require mutual 3:1.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-COLOR",
+      "title": "Understanding SC 1.4.1 Use of Color",
+      "creator": "W3C Web Accessibility Initiative",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+      "version_status": "Explanatory guidance, not the normative success criterion",
+      "checked_on": "2026-10-30",
+      "review_scope": "Visible information beyond color; conditions for lightness distinction; no claim that grayscale or an accessible name alone solves every color-meaning task.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ]
+    },
+    {
+      "source_id": "APPLE-HIG-COLOR",
+      "title": "Human Interface Guidelines: Color",
+      "creator": "Apple",
+      "source_type": "official primary technical source",
+      "public_url": "https://developer.apple.com/design/human-interface-guidelines/color",
+      "version_status": "Living platform guidance; latest visible change entry 2025-12-16",
+      "checked_on": "2026-10-30",
+      "review_scope": "Official Markdown: Best practices, Inclusive color, System colors, Liquid Glass and iOS role guidance. Images and full macOS color table were not reviewed.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ],
+      "readable_official_url": "https://developer.apple.com/design/human-interface-guidelines/color.md"
+    },
+    {
+      "source_id": "APPLE-HIG-DARK",
+      "title": "Human Interface Guidelines: Dark Mode",
+      "creator": "Apple",
+      "source_type": "official primary technical source",
+      "public_url": "https://developer.apple.com/design/human-interface-guidelines/dark-mode",
+      "version_status": "Living platform guidance; visible change entry 2024-08-06",
+      "checked_on": "2026-10-30",
+      "review_scope": "Official Markdown body: semantic color, non-inversion, base/elevated surfaces and accessibility settings. Images were not reviewed; no platform runtime tests.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ],
+      "readable_official_url": "https://developer.apple.com/design/human-interface-guidelines/dark-mode.md"
+    },
+    {
+      "source_id": "ANDROID-M3-COLOR",
+      "title": "Material Design 3 in Compose: color",
+      "creator": "Google / Android Developers",
+      "source_type": "official primary technical source",
+      "public_url": "https://developer.android.com/develop/ui/compose/designsystems/material3",
+      "version_status": "Living platform implementation guidance",
+      "checked_on": "2026-10-30",
+      "review_scope": "ColorScheme, light/dark schemes, Android 12+ dynamic color fallback, paired color roles and accessibility section; no device or Compose tests.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-COLOR-ADJUST",
+      "title": "CSS Color Adjustment Module Level 1",
+      "creator": "W3C CSS Working Group",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/TR/css-color-adjust-1/",
+      "version_status": "Candidate Recommendation Snapshot, 16 December 2025",
+      "checked_on": "2026-10-30",
+      "review_scope": "Selected sections 2–3: color-scheme, theme preference, forced colors and shadow removal. Not a full browser compatibility audit.",
+      "evidence_limits": [
+        "Only the stated text scope was read. No source images, native device tests, implemented-product accessibility conformance or user study is claimed."
+      ],
+      "version_url": "https://www.w3.org/TR/2025/CR-css-color-adjust-1-20251216/"
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "source_id": "RUI-WORK",
+  "title": "Refactoring UI",
+  "authors": [
+    "Adam Wathan",
+    "Steve Schoger"
+  ],
+  "source_type": "official publication and author pages; catalogue-level verification",
+  "public_url": "https://refactoringui.com/",
+  "verified_on": "2026-10-30",
+  "checked_pages": [
+    {
+      "url": "https://refactoringui.com/",
+      "scope": "publication identity, format, and table of contents; current eight-chapter edition uses Starting from Scratch, Hierarchy is Everything, Layout and Spacing, Designing Text, Working with Color, Creating Depth, Working with Images, and Finishing Touches"
+    },
+    {
+      "url": "https://www.steveschoger.com/book/",
+      "scope": "author attribution and official publication link"
+    },
+    {
+      "url": "https://adamwathan.me/courses/",
+      "scope": "author attribution and official publication link"
+    }
+  ],
+  "evidence_limits": [
+    "The actual chapter text and visual observations used by this handbook come from secondary course-note pages.",
+    "The paid publication PDF, edition differences, and image identity were not compared page by page in this verification.",
+    "Official catalogue matching verifies a publication locator; it does not certify accuracy of the secondary notes or grant reuse of source assets."
+  ],
+  "known_title_variant": {
+    "secondary_note_title": "Emphasize by de-emphasizing",
+    "official_catalogue_title": "De-emphasize to emphasize",
+    "treatment": "The handbook retains the observed note title and records the official catalogue variant."
+  },
+  "media_in_publication_tree": "No original publication images, PDFs, videos, icons or attachments are included.",
+  "additional_catalogue_verification": {
+    "checked_on": "2026-10-30",
+    "section": "Creating Depth",
+    "titles": [
+      "Emulate a light source",
+      "Use shadows to convey elevation",
+      "Shadows can have two parts",
+      "Even flat designs can have depth",
+      "Overlap elements to create layers"
+    ],
+    "scope": "catalogue titles only; body and media evidence are recorded separately in the chapter source registers",
+    "images_section_checked": {
+      "checked_on": "2026-10-30",
+      "section": "Working with Images",
+      "titles": [
+        "Use good photos",
+        "Text needs consistent contrast",
+        "Everything has an intended size",
+        "Beware user-uploaded content"
+      ],
+      "scope": "four catalogue titles checked; no original-edition comparison"
+    },
+    "finishing_section_checked": {
+      "checked_on": "2026-10-30",
+      "section": "Finishing Touches",
+      "titles": [
+        "Supercharge the defaults",
+        "Add color with accent borders",
+        "Decorate your backgrounds",
+        "Don’t overlook empty states",
+        "Use fewer borders",
+        "Think outside the box"
+      ],
+      "scope": "six catalogue titles checked by chapter writer; no original-edition comparison"
+    }
+  }
+}

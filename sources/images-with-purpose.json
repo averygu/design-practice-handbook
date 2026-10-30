@@ -1,0 +1,275 @@
+{
+  "chapter": "book/07-images-with-purpose.md",
+  "status": "original draft; secondary-note scope recorded; selected official boundaries verified; no source-asset or original-edition comparison",
+  "media_scope": {
+    "course_pages": 4,
+    "image_references_observed": 24,
+    "unique_image_count": null,
+    "page_context_visual_review_complete": true,
+    "asset_identity_verified": false,
+    "independent_reinspection_by_chapter_writer": false,
+    "video_audio_attachment_review_claim": "none"
+  },
+  "original_synthesis": [
+    "Image purpose and preserved-information workflow for software and learning contexts.",
+    "Anonymous exercise-upload example; no actual student content or working upload component.",
+    "New SVG motifs, abstract backgrounds, and a worksheet geometry used consistently across cropping views.",
+    "Verification plan distinguishes resource availability, legibility, semantic information, operation and learning evidence."
+  ],
+  "geometry_evidence": {
+    "diagram": "D21",
+    "source_dimensions": [
+      800,
+      240
+    ],
+    "common_viewport": [
+      510,
+      300
+    ],
+    "cover": {
+      "scale": 1.25,
+      "rendered_dimensions": [
+        1000,
+        300
+      ],
+      "centered_offset": [
+        -245,
+        0
+      ]
+    },
+    "contain": {
+      "scale": 0.6375,
+      "rendered_dimensions": [
+        510,
+        153
+      ],
+      "centered_offset": [
+        0,
+        73.5
+      ]
+    },
+    "reproduce_with": "scripts/build_image_diagrams.py",
+    "scope": "SVG geometric illustration of proportional fit and clipping; not a browser object-fit implementation test"
+  },
+  "sources": [
+    {
+      "source_id": "RUI-IMAGES-01",
+      "collection": "Refactoring UI / Working with Images",
+      "title": "Use good photos",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all four Working with Images catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on the page, from title to end",
+        "image_references_observed": 1,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The side-by-side room photographs show different rooms, not a controlled exposure edit.",
+        "Phone photography is not automatically unsuitable; substitute stock must not misrepresent a real object.",
+        "No original course media is included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-IMAGES-02",
+      "collection": "Refactoring UI / Working with Images",
+      "title": "Text needs consistent contrast",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all four Working with Images catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on the page, from title to end",
+        "image_references_observed": 6,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The 55 percent black overlay and editing-tool brightness/contrast values are contextual examples, not CSS defaults or conformance proof.",
+        "The final soft-shadow example uses black at 40 percent with zero offset and 50px blur, not white glow.",
+        "Colorization may change relevant image evidence; no course screenshot contrast ratio was independently measured.",
+        "No original course media is included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-IMAGES-03",
+      "collection": "Refactoring UI / Working with Images",
+      "title": "Everything has an intended size",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all four Working with Images catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on the page, from title to end",
+        "image_references_observed": 11,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The icon examples do not establish a fixed scaling ratio or a ban on vector scaling.",
+        "The screenshot 70 percent wording is not a universal threshold.",
+        "A simplified UI illustration is not a real product screenshot, functioning application or acceptance evidence.",
+        "No original course media is included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-IMAGES-04",
+      "collection": "Refactoring UI / Working with Images",
+      "title": "Beware user-uploaded content",
+      "source_type": "secondary course notes; visual review of corresponding course-note pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a public full-text copy of the secondary notes",
+      "public_source_verification": "all four Working with Images catalogue entries checked by chapter writer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer; no independent claim of export completeness against the live page",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on the page, from title to end",
+        "image_references_observed": 6,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Cover cropping can remove meaningful content; consistent frames are a choice, not a universal rule.",
+        "Meaningful images should retain suitable semantic information rather than automatically becoming CSS backgrounds.",
+        "A one-pixel translucent inset boundary is a contextual example; actual image layering and themes need rendering checks.",
+        "No original course media is included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "W3C-ALT-DECISION",
+      "title": "An alt Decision Tree",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/tutorials/images/decision-tree/",
+      "version_status": "W3C WAI tutorial; updated 13 May 2024",
+      "checked_on": "2026-10-30",
+      "review_scope": "The complete decision tree body: equivalent text for informative images, action/destination for functional images, empty alt for contextually decorative or redundant images, detailed information for complex images.",
+      "evidence_limits": [
+        "This is explanatory guidance, not a replacement for normative requirements.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ]
+    },
+    {
+      "source_id": "WHATWG-IMAGES",
+      "title": "HTML Standard: Images",
+      "creator": "WHATWG",
+      "source_type": "official primary technical source",
+      "public_url": "https://html.spec.whatwg.org/multipage/images.html",
+      "version_status": "Living Standard; visible last update 26 October 2026",
+      "checked_on": "2026-10-30",
+      "review_scope": "Selected general alt requirements and related role examples; image-resource selection using srcset/sizes and picture/source, density/zoom/viewport/network context, art direction and adaptive image introduction.",
+      "evidence_limits": [
+        "Introduction and adaptive-image walkthrough are informative; selected alt requirements are normative. Not the full HTML standard or browser compatibility testing.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ]
+    },
+    {
+      "source_id": "W3C-IMAGES3",
+      "title": "CSS Images Module Level 3",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/TR/css-images-3/",
+      "version_status": "Candidate Recommendation Draft, 18 December 2023",
+      "checked_on": "2026-10-30",
+      "review_scope": "Sections 4.3.2, 4.5 and 4.6: cover/contain sizing, object-fit clipping, object-position alignment and natural aspect ratio conditions.",
+      "evidence_limits": [
+        "Not a full specification or browser implementation review.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ],
+      "version_url": "https://www.w3.org/TR/2023/CRD-css-images-3-20231218/"
+    },
+    {
+      "source_id": "W3C-F83",
+      "title": "F83: Insufficient contrast with background images",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Techniques/failures/F83",
+      "version_status": "W3C failure-technique explanation; updated 9 March 2026",
+      "checked_on": "2026-10-30",
+      "review_scope": "Description, examples and tests: image areas behind text, extreme-area quick check and per-letter follow-up when the quick check is inconclusive.",
+      "evidence_limits": [
+        "Technique explains a failure pattern, not an extra normative requirement or a complete conformance audit.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ]
+    },
+    {
+      "source_id": "W3C-CONTRAST-TEXT",
+      "title": "Understanding SC 1.4.3 Contrast (Minimum)",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "version_status": "Explanatory guidance for WCAG 2.2",
+      "checked_on": "2026-10-30",
+      "review_scope": "Relevant foreground/background, text on images, scaling and halo/border definitions; thresholds and unit boundaries are linked to chapter 5.",
+      "evidence_limits": [
+        "No source screenshot measurement or dynamic-camera-background guarantee.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ]
+    },
+    {
+      "source_id": "W3C-NONTEXT-CONTENT",
+      "title": "Understanding SC 1.1.1 Non-text Content",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html",
+      "version_status": "Explanatory guidance for WCAG 2.2",
+      "checked_on": "2026-10-30",
+      "review_scope": "Equivalent-purpose alternatives, control names, decorative content, complex content and the conditional test/exercise exception.",
+      "evidence_limits": [
+        "No blanket exception for course images or claim that an alt field ensures an accessible learning activity.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ]
+    },
+    {
+      "source_id": "W3C-WCAG22",
+      "title": "Web Content Accessibility Guidelines (WCAG) 2.2",
+      "creator": "W3C",
+      "source_type": "official primary technical source",
+      "public_url": "https://www.w3.org/TR/WCAG22/",
+      "version_status": "W3C Recommendation, 12 December 2024",
+      "checked_on": "2026-10-30",
+      "review_scope": "Success criterion 1.1.1 including controls, test/exercise conditions, sensory and decorative cases.",
+      "evidence_limits": [
+        "Selected criterion only; no full product conformance review.",
+        "Source images were not visually reviewed in this technical verification; no product, assistive-technology or device runtime test."
+      ],
+      "version_url": "https://www.w3.org/TR/2024/REC-WCAG22-20241212/"
+    }
+  ]
+}

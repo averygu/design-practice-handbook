@@ -1,0 +1,389 @@
+{
+  "chapter": "book/06-depth-and-layers.md",
+  "status": "secondary-note text and written visual observations used; official catalogue and selected technical boundaries checked; original-edition comparison not performed",
+  "media_scope": {
+    "course_pages": 5,
+    "image_references_observed": 32,
+    "unique_image_count": null,
+    "page_context_visual_review_complete": true,
+    "asset_identity_verified": false,
+    "independent_reinspection_by_chapter_writer": false,
+    "video_audio_attachment_review_claim": "none"
+  },
+  "original_synthesis": [
+    "Separate ordinary content, selection, temporary layer, keyboard focus and operation result.",
+    "Anonymous course-planning scenario, shadow-component comparison and responsive overlap illustrations.",
+    "Implementation and verification boundaries kept separate from static appearance."
+  ],
+  "sources": [
+    {
+      "source_id": "RUI-DEPTH-01",
+      "collection": "Refactoring UI / Creating Depth",
+      "title": "Emulate a light source",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "five matching Creating Depth catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 12,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Top lighting is a chosen visual convention, not a universal real-world light source.",
+        "Primary reviewer observed text/image position and highlight-direction mismatches; example code not copied into the new diagrams.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-DEPTH-02",
+      "collection": "Refactoring UI / Creating Depth",
+      "title": "Use shadows to convey elevation",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "five matching Creating Depth catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 7,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Five shadow levels are example choices, not universal tokens.",
+        "Visual elevation is distinct from z-order and functioning menus, modal dialogs or drag interactions.",
+        "A pressed visual state is not evidence of successful submission.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-DEPTH-03",
+      "collection": "Refactoring UI / Creating Depth",
+      "title": "Shadows can have two parts",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "five matching Creating Depth catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The contact-like component weakens as the example lifts; the broader component need not weaken in parallel.",
+        "The illustration is a visual analogy, not a full physical lighting model.",
+        "Course-image separator syntax was not treated as executable CSS.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-DEPTH-04",
+      "collection": "Refactoring UI / Creating Depth",
+      "title": "Even flat designs can have depth",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "five matching Creating Depth catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 3,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Lighter-nearer/darker-further is limited to the depicted light-theme context.",
+        "Static form/cart images do not establish semantics, keyboard handling or working data.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "RUI-DEPTH-05",
+      "collection": "Refactoring UI / Creating Depth",
+      "title": "Overlap elements to create layers",
+      "source_type": "secondary course notes; written visual observations from corresponding native pages",
+      "creator": null,
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url": "https://refactoringui.com/",
+      "public_url_scope": "official publication and catalogue, not a full-text copy of the secondary notes",
+      "public_source_verification": "five matching Creating Depth catalogue entries checked by source reviewer on 2026-10-30; original edition not compared",
+      "text_review": "available exported text fully read by chapter writer with image marker text retained; live-page export completeness not independently established",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references from title to page end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "page_context_visual_review_complete": true,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Negative margins and separator widths are examples, not defaults.",
+        "Responsive flow, clipping, focus and target operability require real implementation checks.",
+        "Original source media not included in the publication tree."
+      ]
+    },
+    {
+      "source_id": "APPLE-DEPTH-SHADOW",
+      "title": "SwiftUI View.shadow(color:radius:x:y:)",
+      "creator": "Apple",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://developer.apple.com/documentation/swiftui/view/shadow(color:radius:x:y:)",
+      "checked_on": "2026-10-30",
+      "review_scope": "blur radius and x/y offsets; no universal physical elevation formula",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Obtained Apple official indexed text through search; direct document shell required JavaScript, and full Markdown retrieval did not succeed.",
+        "Independent evidence reviewer checked the stated text; chapter writer used the written evidence record.",
+        "No platform API execution, device test or original publication comparison."
+      ],
+      "observed_change_log_entry": null,
+      "version_note": "Observed change-log entry is not a frozen version or verified last-modified date; API deployment versions not checked."
+    },
+    {
+      "source_id": "APPLE-DEPTH-DARK",
+      "title": "Human Interface Guidelines — Dark Mode",
+      "creator": "Apple",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://developer.apple.com/design/human-interface-guidelines/dark-mode",
+      "checked_on": "2026-10-30",
+      "review_scope": "iOS/iPadOS base/elevated backgrounds and accessibility-setting combinations",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Obtained Apple official indexed text through search; direct document shell required JavaScript, and full Markdown retrieval did not succeed.",
+        "Independent evidence reviewer checked the stated text; chapter writer used the written evidence record.",
+        "No platform API execution, device test or original publication comparison."
+      ],
+      "observed_change_log_entry": "2024-08-06",
+      "version_note": "Observed change-log entry is not a frozen version or verified last-modified date; API deployment versions not checked."
+    },
+    {
+      "source_id": "APPLE-DEPTH-MATERIALS",
+      "title": "Human Interface Guidelines — Materials",
+      "creator": "Apple",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://developer.apple.com/design/human-interface-guidelines/materials",
+      "checked_on": "2026-10-30",
+      "review_scope": "current Liquid Glass functional-layer and standard-material content roles; not retroactive to old systems",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Obtained Apple official indexed text through search; direct document shell required JavaScript, and full Markdown retrieval did not succeed.",
+        "Independent evidence reviewer checked the stated text; chapter writer used the written evidence record.",
+        "No platform API execution, device test or original publication comparison."
+      ],
+      "observed_change_log_entry": "2025-09-09",
+      "version_note": "Observed change-log entry is not a frozen version or verified last-modified date; API deployment versions not checked."
+    },
+    {
+      "source_id": "APPLE-DEPTH-MOTION",
+      "title": "Human Interface Guidelines — Motion",
+      "creator": "Apple",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://developer.apple.com/design/human-interface-guidelines/motion",
+      "checked_on": "2026-10-30",
+      "review_scope": "purposeful feedback, excessive movement, input and accessibility context",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Obtained Apple official indexed text through search; direct document shell required JavaScript, and full Markdown retrieval did not succeed.",
+        "Independent evidence reviewer checked the stated text; chapter writer used the written evidence record.",
+        "No platform API execution, device test or original publication comparison."
+      ],
+      "observed_change_log_entry": "2025-09-09",
+      "version_note": "Observed change-log entry is not a frozen version or verified last-modified date; API deployment versions not checked."
+    },
+    {
+      "source_id": "APPLE-DEPTH-REDUCED-MOTION",
+      "title": "App Store Connect — Reduced Motion evaluation criteria",
+      "creator": "Apple",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://developer.apple.com/help/app-store-connect/manage-app-accessibility/reduced-motion-evaluation-criteria",
+      "checked_on": "2026-10-30",
+      "review_scope": "change or disable problematic motion while preserving meaningful calmer feedback",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Official help-page text directly retrieved by independent evidence reviewer.",
+        "App Store support-claim evaluation help, not full app accessibility certification."
+      ]
+    },
+    {
+      "source_id": "M3-DEPTH-SURFACE",
+      "title": "AndroidX Compose Material 3 Surface.kt",
+      "creator": "Android Open Source Project",
+      "source_type": "official maintainer source code",
+      "public_url": "https://github.com/androidx/androidx/blob/androidx-main/compose/material3/material3/src/commonMain/kotlin/androidx/compose/material3/Surface.kt",
+      "checked_on": "2026-10-30",
+      "review_scope": "Surface responsibility and parameter comments: tonal versus shadow elevation, surface-color condition, shadow not changing z-index",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected parameter and responsibility comments only, not full implementation review.",
+        "Rolling androidx-main branch as retrieved; not pinned to a release or the user project."
+      ]
+    },
+    {
+      "source_id": "M3-DEPTH-COLORS",
+      "title": "Flutter ColorScheme",
+      "creator": "Flutter",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://api.flutter.dev/flutter/material/ColorScheme-class.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "tone-based surfaces and surface containers replacing the old opacity-based model",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Current API explanatory text, not cross-framework universal behavior.",
+        "Page footer version 0.0.0 not treated as a reliable release version."
+      ]
+    },
+    {
+      "source_id": "M3-DEPTH-TINT",
+      "title": "Flutter Card.surfaceTintColor",
+      "creator": "Flutter",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://api.flutter.dev/flutter/material/Card/surfaceTintColor.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "property no longer recommended; tone-based alternatives",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Flutter Card property scope; does not establish removal of Android Compose tonalElevation."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-DIALOG",
+      "title": "ARIA APG — Dialog (Modal) Pattern",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/ARIA/apg/patterns/dialog-modal/",
+      "checked_on": "2026-10-30",
+      "review_scope": "modal semantics, background inertness, initial focus, contained Tab sequence, Escape and logical focus return",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected relevant text and conditions, not whole-WCAG conformance review.",
+        "Understanding and APG pages are explanatory/practice guidance; no examples operated."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-DRAG",
+      "title": "WCAG 2.5.7 Dragging Movements",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "AA single-pointer non-drag alternative, essential and user-agent exceptions; independent keyboard requirement",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected relevant text and conditions, not whole-WCAG conformance review.",
+        "Understanding and APG pages are explanatory/practice guidance; no examples operated."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-FOCUS",
+      "title": "WCAG 2.4.7 Focus Visible",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "AA visible focus and distinction from AAA focus appearance",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected relevant text and conditions, not whole-WCAG conformance review.",
+        "Understanding and APG pages are explanatory/practice guidance; no examples operated."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-FOCUS-APPEARANCE",
+      "title": "WCAG 2.4.13 Focus Appearance",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "AAA indicator area and same-pixel change contrast; gradients and drop shadows can qualify conditionally",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected relevant text and conditions, not whole-WCAG conformance review.",
+        "Understanding and APG pages are explanatory/practice guidance; no examples operated."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-NONTEXT",
+      "title": "WCAG 1.4.11 Non-text Contrast",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "AA necessary UI/state/graphic indicators, adjacent contrast, optional boundaries and exceptions",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected relevant text and conditions, not whole-WCAG conformance review.",
+        "Understanding and APG pages are explanatory/practice guidance; no examples operated."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-ANIMATION",
+      "title": "WCAG 2.3.3 Animation from Interactions",
+      "creator": "W3C",
+      "source_type": "official primary technical guidance",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/animation-from-interactions.html",
+      "checked_on": "2026-10-30",
+      "review_scope": "AAA nonessential interaction-triggered motion can be disabled; separate from automatic-motion rules",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected relevant text and conditions, not whole-WCAG conformance review.",
+        "Understanding and APG pages are explanatory/practice guidance; no examples operated."
+      ]
+    },
+    {
+      "source_id": "W3C-DEPTH-FORCED-COLORS",
+      "title": "CSS Color Adjustment Module Level 1, section 3.1",
+      "creator": "W3C",
+      "source_type": "official technical candidate recommendation",
+      "public_url": "https://www.w3.org/TR/css-color-adjust-1/#forced-colors-properties",
+      "checked_on": "2026-10-30",
+      "review_scope": "when forced colors is active and forced-color-adjust is auto, box-shadow and text-shadow compute to none",
+      "media_review": "text only; images, animations, video, audio and examples not viewed or operated",
+      "evidence_limits": [
+        "Selected definition and conditions only, not full specification or browser compatibility tests."
+      ],
+      "version_url": "https://www.w3.org/TR/2025/CR-css-color-adjust-1-20251216/",
+      "version_status": "Candidate Recommendation Snapshot, 16 December 2025"
+    }
+  ]
+}

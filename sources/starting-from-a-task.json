@@ -1,0 +1,147 @@
+{
+  "chapter": "book/01-start-with-a-task.md",
+  "status": "secondary-note scope recorded; official underlying publication and catalogue verified; original-edition comparison not performed",
+  "sources": [
+    {
+      "source_id": "RUI-START-01",
+      "collection": "Refactoring UI / Starting from Scratch",
+      "title": "Start with a feature, not a layout",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer",
+        "asset_identity_verified": false
+      },
+      "limitations": [
+        "Layout and function changes occur together in examples; not isolated causal evidence.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-START-02",
+      "collection": "Refactoring UI / Starting from Scratch",
+      "title": "Detail comes later",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 3,
+        "unique_image_count": null,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer",
+        "asset_identity_verified": false
+      },
+      "limitations": [
+        "Includes repeated images; grayscale is a stage method, not a universal final style.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-START-03",
+      "collection": "Refactoring UI / Starting from Scratch",
+      "title": "Don’t design too much",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 3,
+        "unique_image_count": null,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer",
+        "asset_identity_verified": false
+      },
+      "limitations": [
+        "The source loop does not explicitly show user testing; validation is an original extension.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-START-04",
+      "collection": "Refactoring UI / Starting from Scratch",
+      "title": "Choose a personality",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 12,
+        "unique_image_count": null,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer",
+        "asset_identity_verified": false
+      },
+      "limitations": [
+        "Multiple factors change together; not an experiment proving effects of color or type.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-START-05",
+      "collection": "Refactoring UI / Starting from Scratch",
+      "title": "Limit your choices",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer",
+        "asset_identity_verified": false
+      },
+      "limitations": [
+        "The numeric scales are examples; semantic roles are an original synthesis.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    }
+  ],
+  "media_scope": {
+    "course_pages": 5,
+    "image_references_observed": 28,
+    "unique_image_count": null,
+    "asset_identity_verified": false
+  }
+}

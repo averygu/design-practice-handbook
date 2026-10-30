@@ -1,0 +1,353 @@
+{
+  "chapter": "book/02-hierarchy-and-actions.md",
+  "status": "secondary-note scope recorded; official underlying publication and catalogue verified; original-edition comparison not performed",
+  "media_scope": {
+    "course_pages": 8,
+    "image_references_observed": 32,
+    "unique_image_count": null,
+    "asset_identity_verified": false
+  },
+  "sources": [
+    {
+      "source_id": "RUI-HIER-01",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Not all elements are equal",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 2,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Multiple aspects of the example change together; not isolated causal evidence.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-HIER-02",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Size isn’t everything",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 4,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Sizes, weights and color counts are examples, not universal platform rules.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-HIER-03",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Don’t use grey text on colored backgrounds",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Color names and opacity choices do not themselves guarantee contrast on the actual background.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-HIER-04",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Emphasize by de-emphasizing",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 3,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Reducing panel emphasis is contextual; necessary navigation and state information must remain recognizable.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes",
+      "official_catalogue_title": "De-emphasize to emphasize"
+    },
+    {
+      "source_id": "RUI-HIER-05",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Labels are a last resort",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 6,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "The source explicitly discusses displayed data, not removing labels from form fields.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-HIER-06",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Separate visual hierarchy from document hierarchy",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 2,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Document structure and visual size require separate decisions; implementation is not validated by a diagram.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-HIER-07",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Balance weight and contrast",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Icon and line parameters are examples; decoration and necessary information have different requirements.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "RUI-HIER-08",
+      "collection": "Refactoring UI / Hierarchy is Everything",
+      "title": "Semantics are secondary",
+      "source_type": "secondary course notes; visual review of the corresponding course-note pages",
+      "creator": null,
+      "public_url": "https://refactoringui.com/",
+      "public_source_verification": "publication and matching catalogue entry checked on 2026-10-30; original edition not compared",
+      "text_review": "available exported text read",
+      "visual_review": {
+        "date": "2026-10-30",
+        "reviewer_role": "primary reviewer",
+        "scope": "all observed image references on this page, from title to end",
+        "image_references_observed": 5,
+        "unique_image_count": null,
+        "asset_identity_verified": false,
+        "independent_reinspection_by_chapter_writer": false,
+        "evidence_used": "written observations from primary visual reviewer"
+      },
+      "limitations": [
+        "Visual priority and action consequences are treated separately; reversible deactivation must not be described as permanent deletion.",
+        "No original course media is included in this publication tree."
+      ],
+      "creator_scope": "secondary-note compiler not verified; underlying publication authors recorded separately",
+      "underlying_work_id": "RUI-WORK",
+      "public_url_scope": "official underlying publication and catalogue, not a public full-text copy of the secondary notes"
+    },
+    {
+      "source_id": "W3C-CONTRAST-TEXT",
+      "collection": "W3C Web Accessibility Initiative",
+      "title": "Understanding SC 1.4.3: Contrast (Minimum)",
+      "source_type": "official primary explanatory or practice guidance",
+      "creator": "W3C Web Accessibility Initiative",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html",
+      "public_source_verification": "official page actually read during this writing pass",
+      "verified_on": "2026-10-30",
+      "evidence_scope": "Text contrast thresholds, scope and exceptions; large-text definitions are not interchangeable px/pt values.",
+      "limitations": [
+        "Understanding pages and APG are explanatory/practice guidance; no full product conformance or user test is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-CONTRAST-NONTEXT",
+      "collection": "W3C Web Accessibility Initiative",
+      "title": "Understanding SC 1.4.11: Non-text Contrast",
+      "source_type": "official primary explanatory or practice guidance",
+      "creator": "W3C Web Accessibility Initiative",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html",
+      "public_source_verification": "official page actually read during this writing pass",
+      "verified_on": "2026-10-30",
+      "evidence_scope": "Contrast for necessary component/state/graphical information; not a rule for every decorative border.",
+      "limitations": [
+        "Understanding pages and APG are explanatory/practice guidance; no full product conformance or user test is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-STRUCTURE",
+      "collection": "W3C Web Accessibility Initiative",
+      "title": "Understanding SC 1.3.1: Info and Relationships",
+      "source_type": "official primary explanatory or practice guidance",
+      "creator": "W3C Web Accessibility Initiative",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.html",
+      "public_source_verification": "official page actually read during this writing pass",
+      "verified_on": "2026-10-30",
+      "evidence_scope": "Conveyed information, structure and relationships need a programmatically determinable or textual equivalent.",
+      "limitations": [
+        "Understanding pages and APG are explanatory/practice guidance; no full product conformance or user test is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-LABELS",
+      "collection": "W3C Web Accessibility Initiative",
+      "title": "Understanding SC 3.3.2: Labels or Instructions",
+      "source_type": "official primary explanatory or practice guidance",
+      "creator": "W3C Web Accessibility Initiative",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.html",
+      "public_source_verification": "official page actually read during this writing pass",
+      "verified_on": "2026-10-30",
+      "evidence_scope": "Labels or instructions when user input is required; accessible names alone do not satisfy every visible-label need.",
+      "limitations": [
+        "Understanding pages and APG are explanatory/practice guidance; no full product conformance or user test is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-BUTTON",
+      "collection": "W3C Web Accessibility Initiative",
+      "title": "ARIA Authoring Practices Guide: Button Pattern",
+      "source_type": "official primary explanatory or practice guidance",
+      "creator": "W3C Web Accessibility Initiative",
+      "public_url": "https://www.w3.org/WAI/ARIA/apg/patterns/button/",
+      "public_source_verification": "official page actually read during this writing pass",
+      "verified_on": "2026-10-30",
+      "evidence_scope": "Action semantics, accessible names and keyboard behavior, distinct from visual resemblance to links.",
+      "limitations": [
+        "Understanding pages and APG are explanatory/practice guidance; no full product conformance or user test is claimed."
+      ]
+    },
+    {
+      "source_id": "W3C-COLOR",
+      "collection": "W3C Web Accessibility Initiative",
+      "title": "Understanding SC 1.4.1: Use of Color",
+      "source_type": "official primary explanatory or practice guidance",
+      "creator": "W3C Web Accessibility Initiative",
+      "public_url": "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html",
+      "public_source_verification": "official page actually read during this writing pass",
+      "verified_on": "2026-10-30",
+      "evidence_scope": "Color must not be the only visible way to convey required information.",
+      "limitations": [
+        "Understanding pages and APG are explanatory/practice guidance; no full product conformance or user test is claimed."
+      ]
+    },
+    {
+      "source_id": "RUI-PUBLIC-ACTION-HIERARCHY-QUOTE",
+      "title": "7 Practical Tips for Cheating at Design",
+      "creator": [
+        "Adam Wathan",
+        "Steve Schoger"
+      ],
+      "source_type": "author-published original public article",
+      "usage_type": "direct_quote",
+      "public_url": "https://medium.com/refactoring-ui/7-practical-tips-for-cheating-at-design-40c736799886",
+      "publication_date": "2018-02-20",
+      "verified_on": "2026-10-30",
+      "public_source_verification": "Exact sentence, adjacent paragraphs, byline and displayed publication date checked on the original public article; author publication route confirmed through Adam Wathan's 2018 review.",
+      "author_publication_route": "https://adamwathan.me/2018-year-in-review/",
+      "review_scope": "Article section 7, action hierarchy and destructive-action context; webpage text only, no image or video review.",
+      "claim_supported": "Current-task action priority and action consequences are distinct dimensions; visual emphasis should reflect relative priority without hiding consequences.",
+      "chapter_location": "Section 4: 操作主次与操作后果是两个维度",
+      "quote": {
+        "source_location": "Section 7; first sentence of the paragraph introducing the pyramid of importance.",
+        "original_text": "Every action on a page sits somewhere in a pyramid of importance.",
+        "english_word_count": 12,
+        "translation_zh": "页面上的每项操作，都处在重要性金字塔的某个位置。",
+        "translation_credit": "本章译",
+        "omissions_or_changes": "None; one complete contiguous sentence, with original punctuation."
+      },
+      "quote_budget": {
+        "english_word_limit_per_source": 25,
+        "distinct_excerpt_words": 12,
+        "public_tree_verbatim_occurrences": 2,
+        "words_including_repeated_provenance": 24,
+        "scope": "Quoted prose in chapter and this provenance record; bibliographic metadata excluded; checked on 2026-10-30."
+      },
+      "reuse_basis": "Minimal attributed quotation for commentary and explanation of a specific claim; no broader licence or permission to reproduce the article or its media is asserted.",
+      "limitations": [
+        "This public article is distinct from the book and secondary course notes; no additional course or book reading completion is claimed.",
+        "Relative priority is contextual, not a permanent rank or fixed number of buttons.",
+        "Lower visual emphasis does not justify hiding consequences or bypassing accessibility requirements.",
+        "The quotation does not verify the article's example colors, images or implementation."
+      ]
+    }
+  ]
+}
