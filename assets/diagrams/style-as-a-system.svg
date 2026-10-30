@@ -1,0 +1,63 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1080" viewBox="0 0 1200 1080" role="img" aria-labelledby="title desc">
+<title id="title">同一任务的多因素风格比较</title><desc id="desc">三种原创课程提交示意保留相同任务、答案和提交动作，变化标题、语气、形状、间距与色彩。它们没有经过真实偏好或任务测试，不能归因某一种颜色带来信任或学习改善。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#58706d" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#203c3b}.muted{fill:#58706d}.serif{font-family:"Songti SC","Noto Serif CJK SC",serif}</style>
+<rect width="1200" height="1080" fill="#f6f7f3"/>
+<text x="48" y="54" font-size="31" font-weight="700">03 / 风格是多因素的组合</text>
+<text x="48" y="91" font-size="19" font-weight="400" class="muted">同一任务与关键信息保持一致 · 以下是原创方案，尚未进行用户测试</text>
+<text x="48" y="143" font-size="25" font-weight="700">A 直接</text>
+<rect x="48" y="169" width="350" height="460" rx="7" fill="#fff" stroke="#cbd4ca"/>
+<text x="70" y="207" font-size="18" font-weight="500" class="muted">课堂练习 / 第 3 次</text>
+<text x="70" y="263" font-size="26" font-weight="650">提交本次练习</text>
+<text x="70" y="305" font-size="18" font-weight="400">请检查答案，确认后提交。</text>
+<text x="70" y="355" font-size="19" font-weight="600">你的答案</text>
+<rect x="70" y="374" width="306" height="119" rx="7" fill="#ffffff" stroke="#bccbc3"/>
+<text x="85" y="407" font-size="20" font-weight="400">这段经历让我发现，</text>
+<text x="85" y="439" font-size="20" font-weight="400">理解之后还需要亲自尝试。</text>
+<text x="70" y="526" font-size="17" font-weight="400" class="muted">提交成功后可查看已交版本。</text>
+<rect x="70" y="548" width="306" height="55" rx="7" fill="#315e54" stroke="#315e54"/>
+<text x="167" y="584" font-size="22" font-weight="600" fill="#ffffff" style="fill:#ffffff">提交练习</text>
+<text x="425" y="143" font-size="25" font-weight="700">B 安静</text>
+<rect x="425" y="169" width="350" height="460" rx="2" fill="#fbfaf5" stroke="#cbd4ca"/>
+<text x="447" y="207" font-size="18" font-weight="500" class="muted">课堂练习 / 第 3 次</text>
+<text x="447" y="263" font-size="28" font-weight="500" class="serif">提交本次练习</text>
+<text x="447" y="305" font-size="18" font-weight="400">检查本次答案，再确认提交。</text>
+<text x="447" y="355" font-size="19" font-weight="600">你的答案</text>
+<rect x="447" y="374" width="306" height="119" rx="2" fill="#ffffff" stroke="#bccbc3"/>
+<text x="462" y="407" font-size="20" font-weight="400">这段经历让我发现，</text>
+<text x="462" y="439" font-size="20" font-weight="400">理解之后还需要亲自尝试。</text>
+<text x="447" y="526" font-size="17" font-weight="400" class="muted">提交成功后可查看已交版本。</text>
+<rect x="447" y="548" width="306" height="55" rx="2" fill="#66543b" stroke="#66543b"/>
+<text x="544" y="584" font-size="22" font-weight="600" fill="#ffffff" style="fill:#ffffff">提交练习</text>
+<text x="802" y="143" font-size="25" font-weight="700">C 鼓励</text>
+<rect x="802" y="169" width="350" height="460" rx="22" fill="#fbf3e9" stroke="#cbd4ca"/>
+<text x="824" y="207" font-size="18" font-weight="500" class="muted">课堂练习 / 第 3 次</text>
+<text x="824" y="263" font-size="27" font-weight="650">提交本次练习</text>
+<text x="824" y="305" font-size="18" font-weight="400">写好了。检查后就可以提交。</text>
+<text x="824" y="355" font-size="19" font-weight="600">你的答案</text>
+<rect x="824" y="374" width="306" height="119" rx="10" fill="#ffffff" stroke="#bccbc3"/>
+<text x="839" y="407" font-size="20" font-weight="400">这段经历让我发现，</text>
+<text x="839" y="439" font-size="20" font-weight="400">理解之后还需要亲自尝试。</text>
+<text x="824" y="526" font-size="17" font-weight="400" class="muted">提交成功后可查看已交版本。</text>
+<rect x="824" y="548" width="306" height="55" rx="22" fill="#9a4a2e" stroke="#9a4a2e"/>
+<text x="921" y="584" font-size="22" font-weight="600" fill="#ffffff" style="fill:#ffffff">提交练习</text>
+<text x="48" y="682" font-size="25" font-weight="700">怎样读这组比较</text>
+<path d="M48 714 L1152 714" fill="none" stroke="#ccd7ce" stroke-width="2"/>
+<text x="48" y="743" font-size="17" font-weight="650" class="muted">标题</text>
+<text x="48" y="771" font-size="19" font-weight="500">无衬线、加重标题</text>
+<text x="425" y="771" font-size="19" font-weight="500">衬线、较轻标题</text>
+<text x="802" y="771" font-size="19" font-weight="500">无衬线、加重标题</text>
+<path d="M48 786 L1152 786" fill="none" stroke="#ccd7ce" stroke-width="2"/>
+<text x="48" y="815" font-size="17" font-weight="650" class="muted">语言</text>
+<text x="48" y="843" font-size="19" font-weight="500">直接说明动作</text>
+<text x="425" y="843" font-size="19" font-weight="500">平静说明顺序</text>
+<text x="802" y="843" font-size="19" font-weight="500">肯定进度，再给动作</text>
+<path d="M48 858 L1152 858" fill="none" stroke="#ccd7ce" stroke-width="2"/>
+<text x="48" y="887" font-size="17" font-weight="650" class="muted">形状与色彩</text>
+<text x="48" y="915" font-size="19" font-weight="500">小圆角、绿灰</text>
+<text x="425" y="915" font-size="19" font-weight="500">直角、暖中性</text>
+<text x="802" y="915" font-size="19" font-weight="500">较大圆角、暖强调</text>
+<rect x="48" y="950" width="1104" height="85" rx="14" fill="#e7eee7" stroke="#cad7cf"/>
+<text x="71" y="983" font-size="22" font-weight="650">共同底线：任务、关键信息、可读性与恢复路径先成立。</text>
+<text x="71" y="1016" font-size="19" font-weight="400" class="muted">一次改变多个因素，只能比较整套方向，不能据此证明某个颜色或圆角的因果效果。</text>
+</svg>

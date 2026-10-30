@@ -1,0 +1,54 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="920" viewBox="0 0 1200 920" role="img" aria-labelledby="title desc">
+<title id="title">有限选择要有明确的语义角色</title><desc id="desc">原创示意表以正文、辅助、主操作、选中和错误为角色，展示课程提交与反馈工作台中的不同用途。候选要放回真实组件、中文长内容和触控条件中检查，不给固定通用尺寸。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="7" refY="4" orient="auto"><path d="M0 0 L8 4 L0 8" fill="none" stroke="#58706d" stroke-width="1.5"/></marker></defs>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif;fill:#203c3b}.muted{fill:#58706d}.serif{font-family:"Songti SC","Noto Serif CJK SC",serif}</style>
+<rect width="1200" height="920" fill="#f6f7f3"/>
+<text x="48" y="54" font-size="31" font-weight="700">02 / 先定用途，再从有限候选中选择</text>
+<text x="48" y="91" font-size="19" font-weight="400" class="muted">原创示意 · 颜色仅示意角色，具体取值须在真实平台与背景下验证</text>
+<rect x="48" y="126" width="1104" height="532" rx="18" fill="#fff" stroke="#cad7cf"/>
+<text x="74" y="167" font-size="22" font-weight="650">语义角色</text>
+<text x="314" y="167" font-size="22" font-weight="650">课程提交</text>
+<text x="730" y="167" font-size="22" font-weight="650">反馈工作台</text>
+<rect x="75" y="216" width="28" height="28" rx="6" fill="#203c3b" stroke="#203c3b"/>
+<text x="117" y="240" font-size="23" font-weight="600">正文</text>
+<text x="314" y="240" font-size="23" font-weight="500" fill="#203c3b" style="fill:#203c3b">第 3 次练习</text>
+<text x="730" y="240" font-size="23" font-weight="500" fill="#203c3b" style="fill:#203c3b">本次反馈</text>
+<path d="M74 281 L1126 281" fill="none" stroke="#e0e6df" stroke-width="2"/>
+<rect x="75" y="304" width="28" height="28" rx="6" fill="#58706d" stroke="#58706d"/>
+<text x="117" y="328" font-size="23" font-weight="600">辅助</text>
+<text x="314" y="328" font-size="23" font-weight="500" fill="#58706d" style="fill:#58706d">可在提交前修改</text>
+<text x="730" y="328" font-size="23" font-weight="500" fill="#58706d" style="fill:#58706d">已保留原始答案</text>
+<path d="M74 369 L1126 369" fill="none" stroke="#e0e6df" stroke-width="2"/>
+<rect x="75" y="392" width="28" height="28" rx="6" fill="#315e54" stroke="#315e54"/>
+<text x="117" y="416" font-size="23" font-weight="600">主操作</text>
+<rect x="314" y="381" width="210" height="55" rx="9" fill="#315e54" stroke="#315e54"/>
+<text x="339" y="417" font-size="22" font-weight="600" fill="#fff" style="fill:#fff">提交练习</text>
+<rect x="730" y="381" width="210" height="55" rx="9" fill="#315e54" stroke="#315e54"/>
+<text x="755" y="417" font-size="22" font-weight="600" fill="#fff" style="fill:#fff">保存修订</text>
+<path d="M74 457 L1126 457" fill="none" stroke="#e0e6df" stroke-width="2"/>
+<rect x="75" y="480" width="28" height="28" rx="6" fill="#dcebe3" stroke="#dcebe3"/>
+<text x="117" y="504" font-size="23" font-weight="600">选中</text>
+<rect x="314" y="469" width="300" height="55" rx="9" fill="#dcebe3" stroke="#779a8c"/>
+<text x="332" y="505" font-size="22" font-weight="600">当前版本 · 已选择</text>
+<rect x="730" y="469" width="300" height="55" rx="9" fill="#dcebe3" stroke="#779a8c"/>
+<text x="748" y="505" font-size="22" font-weight="600">建议 2 · 已选择</text>
+<path d="M74 545 L1126 545" fill="none" stroke="#e0e6df" stroke-width="2"/>
+<rect x="75" y="568" width="28" height="28" rx="6" fill="#9b382c" stroke="#9b382c"/>
+<text x="117" y="592" font-size="23" font-weight="600">错误</text>
+<text x="314" y="592" font-size="23" font-weight="500" fill="#9b382c" style="fill:#9b382c">提交失败 · 重试</text>
+<text x="730" y="592" font-size="23" font-weight="500" fill="#9b382c" style="fill:#9b382c">保存失败 · 重试</text>
+<text x="48" y="714" font-size="25" font-weight="700">比较时，把候选放回完整组件</text>
+<rect x="48" y="742" width="350" height="115" rx="14" fill="#e7eee7" stroke="#cad7cf"/>
+<text x="68" y="778" font-size="20" font-weight="700" class="muted">1</text>
+<text x="98" y="778" font-size="22" font-weight="650">看关系</text>
+<text x="68" y="822" font-size="19" font-weight="500">文字、图形、边界与状态</text>
+<rect x="425" y="742" width="350" height="115" rx="14" fill="#e7eee7" stroke="#cad7cf"/>
+<text x="445" y="778" font-size="20" font-weight="700" class="muted">2</text>
+<text x="475" y="778" font-size="22" font-weight="650">看内容</text>
+<text x="445" y="822" font-size="19" font-weight="500">长中文、错误与文字缩放</text>
+<rect x="802" y="742" width="350" height="115" rx="14" fill="#e7eee7" stroke="#cad7cf"/>
+<text x="822" y="778" font-size="20" font-weight="700" class="muted">3</text>
+<text x="852" y="778" font-size="22" font-weight="650">看操作</text>
+<text x="822" y="822" font-size="19" font-weight="500">图形大小 ≠ 可点击范围</text>
+<text x="48" y="894" font-size="20" font-weight="500" class="muted">规则减少重复决定；有理由的情境差异仍然保留。</text>
+</svg>

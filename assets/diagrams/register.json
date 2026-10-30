@@ -1,0 +1,648 @@
+{
+  "status": "twenty-seven original draft illustrations; scope limited to listed files",
+  "diagrams": [
+    {
+      "diagram_id": "D01",
+      "file": "task-to-flow.svg",
+      "title": "从任务骨架到具体流程与迭代",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-START-01",
+        "RUI-START-02",
+        "RUI-START-03"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "local SVG rasterization with sharp/librsvg",
+        "checked": "Chinese labels, clipping, diagram relationships, footer and source-scope wording",
+        "limits": "not a functional product, native-device test, user study or learning-outcome test"
+      },
+      "sha256": "935bf522649ecdecc7f1b473144069d438ad0adebedd93e5c80971d09dc5dc33",
+      "alt": "原创课程提交示例：先明确输入、动作、结果，再设计草稿、检查、提交中和提交成功；失败保留答案并重试。设计、实现、试用与修正构成循环。",
+      "chapter": "book/01-start-with-a-task.md"
+    },
+    {
+      "diagram_id": "D02",
+      "file": "choices-by-role.svg",
+      "title": "有限选择与语义角色",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-START-05"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "local SVG rasterization with sharp/librsvg",
+        "checked": "Chinese labels, clipping, diagram relationships, footer and source-scope wording",
+        "limits": "not a functional product, native-device test, user study or learning-outcome test"
+      },
+      "sha256": "0af5f30df640862ce6596b0618a13ff1b601e40e02dae6af5444e2cff6ed45ed",
+      "alt": "原创示意表以正文、辅助、主操作、选中和错误为角色，展示课程提交与反馈工作台中的不同用途。候选要放回真实组件、中文长内容和触控条件中检查，不给固定通用尺寸。",
+      "chapter": "book/01-start-with-a-task.md"
+    },
+    {
+      "diagram_id": "D03",
+      "file": "style-as-a-system.svg",
+      "title": "多因素风格比较",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-START-04"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "local SVG rasterization with sharp/librsvg",
+        "checked": "Chinese labels, clipping, diagram relationships, footer and source-scope wording",
+        "limits": "not a functional product, native-device test, user study or learning-outcome test"
+      },
+      "sha256": "4c5f5f5fd81200a105a9e9c013e553cf460f15c4e6461ab67d37a461e5c15422",
+      "alt": "三种原创课程提交示意保留相同任务、答案和提交动作，变化标题、语气、形状、间距与色彩。它们没有经过真实偏好或任务测试，不能归因某一种颜色带来信任或学习改善。",
+      "chapter": "book/01-start-with-a-task.md"
+    },
+    {
+      "diagram_id": "D04",
+      "file": "hierarchy-current-task.svg",
+      "chapter": "book/02-hierarchy-and-actions.md",
+      "title": "当前任务与视觉竞争",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-HIER-01",
+        "RUI-HIER-02",
+        "RUI-HIER-04"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "local SVG rasterization with sharp/librsvg",
+        "checked": "Chinese labels, clipping, diagram relationships, chapter consistency and source-scope wording",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "chapter and rasterized diagrams reviewed; wording and cross-reference issues corrected"
+      },
+      "sha256": "ec766d5b5e1b893f3fd13cfaf6d389fb3a50d97bb22350485155e425cb418beb",
+      "alt": "相同核心信息与操作的两种原创方案：左侧每项都强调，右侧按准备讲评这一任务安排注意顺序，并增加方法说明与设计要求批注。"
+    },
+    {
+      "diagram_id": "D05",
+      "file": "hierarchy-labels-structure.svg",
+      "chapter": "book/02-hierarchy-and-actions.md",
+      "title": "标签、内容与文档结构",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-HIER-05",
+        "RUI-HIER-06",
+        "W3C-LABELS",
+        "W3C-STRUCTURE"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "local SVG rasterization with sharp/librsvg",
+        "checked": "Chinese labels, clipping, diagram relationships, chapter consistency and source-scope wording",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "chapter and rasterized diagrams reviewed; wording and cross-reference issues corrected"
+      },
+      "sha256": "f6ac6dc2b651706b2c3e8d7df0cdef3372560ea19d95054eceae40c7f0242b04",
+      "alt": "读进度、查属性和输入内容需要不同的标签强调。下半图分别呈现文档结构与视觉样式，二者不能互相代替。"
+    },
+    {
+      "diagram_id": "D06",
+      "file": "hierarchy-action-consequence.svg",
+      "chapter": "book/02-hierarchy-and-actions.md",
+      "title": "操作主次与操作后果",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-HIER-08",
+        "W3C-BUTTON",
+        "W3C-COLOR"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "local SVG rasterization with sharp/librsvg",
+        "checked": "Chinese labels, clipping, diagram relationships, chapter consistency and source-scope wording",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "chapter and rasterized diagrams reviewed; wording and cross-reference issues corrected"
+      },
+      "sha256": "0cc8f932ab1266b305aad072a1b31506dacde12097cc93da6a343326ee12057d",
+      "alt": "上方分别提出任务优先级和操作后果问题；下方展示准备页和实际删除步骤。原创例子设定为删除讲评草稿不可恢复，原始回答保留。"
+    },
+    {
+      "diagram_id": "D07",
+      "file": "03-grouping-by-relationship.svg",
+      "chapter": "book/03-space-and-density.md",
+      "title": "让距离说明：哪些文字属于同一组",
+      "alt": "左右均有观察和改写两个标题及对应说明。左侧标题与说明之间、两组之间距离接近；右侧标题靠近自己的说明，两组拉开。图下说明组内收紧与组间分开可以同时进行。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-SPACE-06"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look local SVG rasterization; square temporary wrapper prevents thumbnail cropping, source SVG remains unchanged",
+        "checked": "Chinese labels, full diagram boundaries, spatial annotations, chapter consistency and evidence-scope wording",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and chapter independently reviewed; label collision, spatial wording and example-background issues corrected"
+      },
+      "sha256": "985ae4e297dbed8d03ee0049b6b9bb4bb09eec70aa1bcf63f26a42ce72f1640b"
+    },
+    {
+      "diagram_id": "D08",
+      "file": "03-five-spatial-roles.svg",
+      "chapter": "book/03-space-and-density.md",
+      "title": "五类空间，各自承担不同工作",
+      "alt": "练习导航位于左侧，主区域包含待比较的两条答案和下方共同问题。五个标注分别指向导航宽度、主内容内边距、区块间距、同组答案间距及答案内部内边距。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-SPACE-01",
+        "RUI-SPACE-02",
+        "RUI-SPACE-06"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look local SVG rasterization; square temporary wrapper prevents thumbnail cropping, source SVG remains unchanged",
+        "checked": "Chinese labels, full diagram boundaries, spatial annotations, chapter consistency and evidence-scope wording",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and chapter independently reviewed; label collision, spatial wording and example-background issues corrected"
+      },
+      "sha256": "0937d6701ac30d62f425a2ca97d5ebe967bb7ff5ae69e5ad5d3639bc2476d8f4"
+    },
+    {
+      "diagram_id": "D09",
+      "file": "03-reflow-by-task.svg",
+      "chapter": "book/03-space-and-density.md",
+      "title": "窗口变窄时，重排任务而非缩小整页",
+      "alt": "宽窗口中任务区域有限宽，左栏原句和要求，右栏答案与提交。窄窗口保留练习进度，以相同正文大小上下排列原句、要求、答案和提交。标题换行，必要内容没有删除。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-SPACE-03",
+        "RUI-SPACE-04",
+        "RUI-SPACE-05",
+        "W3C-GRID-TRACKS"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look local SVG rasterization; square temporary wrapper prevents thumbnail cropping, source SVG remains unchanged",
+        "checked": "Chinese labels, full diagram boundaries, spatial annotations, chapter consistency and evidence-scope wording",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and chapter independently reviewed; label collision, spatial wording and example-background issues corrected"
+      },
+      "sha256": "9539cda5050287933a502f067d74d38e67ace8053fb66a2cbe61a25a9f3987f6"
+    },
+    {
+      "diagram_id": "D10",
+      "file": "04-type-by-role.svg",
+      "chapter": "book/04-text-for-reading.md",
+      "title": "先定文字角色，再决定如何强调",
+      "alt": "左侧原创反馈页包含练习定位、主要反馈、修改和查看入口，以及保存状态；右侧解释各自的阅读职责。下方将大标题与较小入口放在同一基线，并说明此做法不适用于所有对象。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-TEXT-01",
+        "RUI-TEXT-02",
+        "RUI-TEXT-04"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look local SVG rasterization with temporary square wrapper to prevent thumbnail cropping",
+        "checked": "complete Chinese text, boundaries, baseline guide, identical paragraph content, numeric precision and leading zeros, figure/chapter consistency",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and chapter reviewed; exact text-spacing override condition added; no remaining required redraw"
+      },
+      "sha256": "1224987e009e047fe3519ece629870972e787a9623011702dab40d2cf6fe137e"
+    },
+    {
+      "diagram_id": "D11",
+      "file": "04-reading-width.svg",
+      "chapter": "book/04-text-for-reading.md",
+      "title": "正文可以拥有自己的阅读列宽",
+      "alt": "上方反馈段落使用较宽的正文列，下方原文完整放入较窄列，字号与行高不变。右侧提示检查回行、连续理解与是否仍能找到相关动作，不规定普适汉字数量。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-TEXT-03",
+        "RUI-TEXT-05",
+        "RUI-TEXT-08",
+        "W3C-TEXT-SPACING"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look local SVG rasterization with temporary square wrapper to prevent thumbnail cropping",
+        "checked": "complete Chinese text, boundaries, baseline guide, identical paragraph content, numeric precision and leading zeros, figure/chapter consistency",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and chapter reviewed; exact text-spacing override condition added; no remaining required redraw"
+      },
+      "sha256": "8784a01d921c6300ccc49490e97280b0d45aff94201e70029f99f48f18fa5bf9"
+    },
+    {
+      "diagram_id": "D12",
+      "file": "04-alignment-by-content.svg",
+      "chapter": "book/04-text-for-reading.md",
+      "title": "文字、数量与编号，使用不同的对齐判断",
+      "alt": "表格含任务编号001、014和102，名称、状态以及录音时长8.0、12.5和9.0秒。编号保留前导零，名称与状态左对齐；同单位同精度的时长采用等宽数字右对齐。打开录音入口始终有文字和下划线。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous lesson/workbench examples",
+      "source_ids": [
+        "RUI-TEXT-06",
+        "RUI-TEXT-07",
+        "W3C-STRUCTURE",
+        "W3C-G183"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look local SVG rasterization with temporary square wrapper to prevent thumbnail cropping",
+        "checked": "complete Chinese text, boundaries, baseline guide, identical paragraph content, numeric precision and leading zeros, figure/chapter consistency",
+        "limits": "not a functional product, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and chapter reviewed; exact text-spacing override condition added; no remaining required redraw"
+      },
+      "sha256": "96679a1037ca866149e314b4f410e201f33fed2fadfda540b3934211fae92a4f"
+    },
+    {
+      "diagram_id": "D13",
+      "file": "05-color-by-role.svg",
+      "chapter": "book/05-color-and-state.md",
+      "title": "先定用途，再为前景和承载面配对",
+      "alt": "原创改写练习页面中，正文、辅助说明、操作文字和错误信息分别与所在承载面配对。右侧记录每种颜色角色的职责；状态文字明确表达事实，未展示全部交互状态。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous exercise submission and independent color calculations",
+      "source_ids": [
+        "RUI-COLOR-02",
+        "RUI-COLOR-03",
+        "RUI-COLOR-06"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "bundled Sharp local SVG rasterization to full-size PNG; no dependency installed",
+        "checked": "complete Chinese labels, no clipping or collisions, foreground/surface pairing, fractional sRGB inputs, four contrast ratios, identical state text and symbols across two columns",
+        "limits": "not a functional product, color-vision simulation, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and full chapter read by a separate reviewer; four ratios independently recomputed; no required changes identified"
+      },
+      "sha256": "d506128ca231ef2843e8acaed43c7399eda014b71e0fb16bd4f0884297e8cc52"
+    },
+    {
+      "diagram_id": "D14",
+      "file": "05-hsl-and-contrast.svg",
+      "chapter": "book/05-color-and-state.md",
+      "title": "HSL明度相同，文字对比仍会不同",
+      "alt": "两种不透明sRGB颜色具有相同S70%、L40%，色相为160与280。分别展示纯白与纯黑前景，对比约2.85/7.37和7.83/2.68；不足对比被刻意保留用于比较，独立计算不等于显示器测量。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous exercise submission and independent color calculations",
+      "source_ids": [
+        "RUI-COLOR-01",
+        "RUI-COLOR-04",
+        "W3C-COLOR4",
+        "W3C-CONTRAST-TEXT"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "bundled Sharp local SVG rasterization to full-size PNG; no dependency installed",
+        "checked": "complete Chinese labels, no clipping or collisions, foreground/surface pairing, fractional sRGB inputs, four contrast ratios, identical state text and symbols across two columns",
+        "limits": "not a functional product, color-vision simulation, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and full chapter read by a separate reviewer; four ratios independently recomputed; no required changes identified"
+      },
+      "sha256": "d2d00ce4db54491068252e648947e68335f5cba76b1cc7443a6f8fa1e95a4989"
+    },
+    {
+      "diagram_id": "D15",
+      "file": "05-state-without-hue.svg",
+      "chapter": "book/05-color-and-state.md",
+      "title": "去掉色相，状态仍应说得清",
+      "alt": "有色与统一中性色两列包含相同的草稿已保存、已提交、提交失败文字及形状符号。每种状态有解释和后续路径；这不是色觉障碍模拟，也不证明示例产品已经实现。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous exercise submission and independent color calculations",
+      "source_ids": [
+        "RUI-COLOR-07",
+        "W3C-COLOR"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "bundled Sharp local SVG rasterization to full-size PNG; no dependency installed",
+        "checked": "complete Chinese labels, no clipping or collisions, foreground/surface pairing, fractional sRGB inputs, four contrast ratios, identical state text and symbols across two columns",
+        "limits": "not a functional product, color-vision simulation, full accessibility conformance check, native-device test, user study or learning-outcome test",
+        "independent_review": "all three rasterized diagrams and full chapter read by a separate reviewer; four ratios independently recomputed; no required changes identified"
+      },
+      "sha256": "c14435e77a8dad551bbf5fe5bdcd017c00ed8f12d2e0066335e99e0e1c714c05"
+    },
+    {
+      "diagram_id": "D16",
+      "file": "06-layers-by-purpose.svg",
+      "chapter": "book/06-depth-and-layers.md",
+      "title": "临时层、已选内容与焦点，各说一件事",
+      "alt": "练习列表的第二行有已选标记；调整安排展开带边界和阴影的临时面板，移动到明天有独立焦点环。注释分开普通内容、临时层和键盘焦点。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous course-planning examples",
+      "source_ids": [
+        "RUI-DEPTH-02",
+        "W3C-DEPTH-FOCUS",
+        "W3C-DEPTH-DIALOG"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look rasterization of square 1200 by 1200 local SVG files",
+        "checked": "all three raster images viewed; Chinese text, boundaries, focus-ring placement, two-part shadow distinction and wide/narrow content preservation",
+        "limits": "not a functional product, full accessibility conformance check, device test, user study or learning-outcome test",
+        "independent_review": "Full chapter, source-register scope and all three rasterized diagrams independently reviewed; no required changes. Not a second full verification of all 15 primary-source records."
+      },
+      "sha256": "598a508ad6e66d9865a61d9fa9305cd8ede86860eda89ef438f179ec4c23baf6"
+    },
+    {
+      "diagram_id": "D17",
+      "file": "06-shadow-components.svg",
+      "chapter": "book/06-depth-and-layers.md",
+      "title": "把接触处暗边与宽范围柔影分开判断",
+      "alt": "同一匿名练习条目在列表内保留接触暗边；临时抬起时接触暗边减弱而宽范围柔影展开。两个分量分别解释，未给出高度公式或固定参数。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous course-planning examples",
+      "source_ids": [
+        "RUI-DEPTH-01",
+        "RUI-DEPTH-02",
+        "RUI-DEPTH-03",
+        "APPLE-DEPTH-SHADOW"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look rasterization of square 1200 by 1200 local SVG files",
+        "checked": "all three raster images viewed; Chinese text, boundaries, focus-ring placement, two-part shadow distinction and wide/narrow content preservation",
+        "limits": "not a functional product, full accessibility conformance check, device test, user study or learning-outcome test",
+        "independent_review": "Full chapter, source-register scope and all three rasterized diagrams independently reviewed; no required changes. Not a second full verification of all 15 primary-source records."
+      },
+      "sha256": "d26fb7771a86188cdae44da05993490bcd5351d8a37c9686caf9509a471b1b84"
+    },
+    {
+      "diagram_id": "D18",
+      "file": "06-overlap-and-reflow.svg",
+      "chapter": "book/06-depth-and-layers.md",
+      "title": "重叠服务关系，窄屏可以回到正常排列",
+      "alt": "宽窗口中下一次练习卡跨越课程介绍区与任务区；窄窗口中相同核心内容顺序排列，开始按钮的焦点轮廓在容器内有空间。预计8分钟是示例设定。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG authored for this project using anonymous course-planning examples",
+      "source_ids": [
+        "RUI-DEPTH-05",
+        "W3C-DEPTH-FOCUS"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS Quick Look rasterization of square 1200 by 1200 local SVG files",
+        "checked": "all three raster images viewed; Chinese text, boundaries, focus-ring placement, two-part shadow distinction and wide/narrow content preservation",
+        "limits": "not a functional product, full accessibility conformance check, device test, user study or learning-outcome test",
+        "independent_review": "Full chapter, source-register scope and all three rasterized diagrams independently reviewed; no required changes. Not a second full verification of all 15 primary-source records."
+      },
+      "sha256": "197c7725d09ac5e5b89245865af4a69408f058b5b7e63d95242c0de07cfe1728"
+    },
+    {
+      "diagram_id": "D19",
+      "file": "07-image-purpose.svg",
+      "chapter": "book/07-images-with-purpose.md",
+      "title": "先问图片在这里承担什么用途",
+      "alt": "三列分别为信息图、独立入口和装饰。信息图表达观察再改写；入口名称为查看完整练习图；装饰纹样不含独有信息，“开始练习”明确是页面文字而非装饰的一部分。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG geometry, anonymous learning examples and abstract motifs; no source images or third-party media",
+      "source_ids": [
+        "RUI-IMAGES-01",
+        "W3C-ALT-DECISION",
+        "WHATWG-IMAGES"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "bundled Sharp local SVG rasterization to full-size PNG; no dependency installed",
+        "checked": "complete Chinese text, image-role boundaries, identical abstract backgrounds, crop clipping geometry, no apparent collision or unintended clipping",
+        "limits": "not a real photograph, product screenshot, student work, browser object-fit test, assistive-technology audit or learning-outcome result",
+        "independent_review": "full chapter and all three rasterized diagrams reviewed separately; D21 cover/contain scale and offsets independently recomputed; no required changes; not a second full official-source verification"
+      },
+      "sha256": "139c6c59d97e6304c04cf194dcb35a4ddc510ff68c93d8ff7013c7e2ba590419"
+    },
+    {
+      "diagram_id": "D20",
+      "file": "07-text-on-images.svg",
+      "chapter": "book/07-images-with-purpose.md",
+      "title": "对比要覆盖文字实际出现的位置",
+      "alt": "同一原创几何背景分别承载直接叠放的白字、不透明深色底面上的白字和图片外的深字。左侧刻意保留不足对比；不同方法有遮图或另占文字空间的取舍，未作照片修图或合规宣称。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG geometry, anonymous learning examples and abstract motifs; no source images or third-party media",
+      "source_ids": [
+        "RUI-IMAGES-02",
+        "W3C-F83",
+        "W3C-CONTRAST-TEXT"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "bundled Sharp local SVG rasterization to full-size PNG; no dependency installed",
+        "checked": "complete Chinese text, image-role boundaries, identical abstract backgrounds, crop clipping geometry, no apparent collision or unintended clipping",
+        "limits": "not a real photograph, product screenshot, student work, browser object-fit test, assistive-technology audit or learning-outcome result",
+        "independent_review": "full chapter and all three rasterized diagrams reviewed separately; D21 cover/contain scale and offsets independently recomputed; no required changes; not a second full official-source verification"
+      },
+      "sha256": "440be3e2623a9a8b9f81bd0e025d39c6ebf37801a63e791b9ab4400ef13946df"
+    },
+    {
+      "diagram_id": "D21",
+      "file": "07-crop-and-context.svg",
+      "chapter": "book/07-images-with-purpose.md",
+      "title": "容器整齐，不能以丢失内容为代价",
+      "alt": "同一800乘240的原创练习图在510乘300框中按cover与contain缩放。居中cover裁掉题号和反馈区域；contain保留整图并留上下空白，仍需检查缩小文字。不是实际学生作业或浏览器运行结果。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG geometry, anonymous learning examples and abstract motifs; no source images or third-party media",
+      "source_ids": [
+        "RUI-IMAGES-03",
+        "RUI-IMAGES-04",
+        "W3C-IMAGES3"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "bundled Sharp local SVG rasterization to full-size PNG; no dependency installed",
+        "checked": "complete Chinese text, image-role boundaries, identical abstract backgrounds, crop clipping geometry, no apparent collision or unintended clipping",
+        "limits": "not a real photograph, product screenshot, student work, browser object-fit test, assistive-technology audit or learning-outcome result",
+        "independent_review": "full chapter and all three rasterized diagrams reviewed separately; D21 cover/contain scale and offsets independently recomputed; no required changes; not a second full official-source verification"
+      },
+      "sha256": "a53f915ad10c1583b845a3346b840c91744557dd714991e0ebd777a03405e064"
+    },
+    {
+      "diagram_id": "D22",
+      "file": "08-borders-by-role.svg",
+      "chapter": "book/08-finish-and-real-states.md",
+      "title": "每条线都应有工作，焦点需要单独保留",
+      "alt": "两侧练习讲评区拥有相同内容、位置与字号。右侧减少内部框线并保留范围和操作焦点；不代表实际用户效果比较。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG geometry, anonymous teaching-workbench scenarios and original text; no source images or third-party media",
+      "source_ids": [
+        "RUI-FINISH-05",
+        "W3C-FINISH-BOUNDARY",
+        "W3C-FINISH-FORCED"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS QuickLook local SVG rasterization to full-size PNG",
+        "checked": "all three rasterized diagrams actually viewed: Chinese text, boundaries, control comparisons, state wording and visual meaning; no apparent collision or unintended clipping",
+        "limits": "not a functioning product, keyboard/assistive-technology test, user comparison or learning-outcome evidence",
+        "independent_review": "Full chapter, source-review boundary and all three rasterized diagrams separately reviewed by another manuscript editor (also the primary source-image observer); no required changes, no clipping or collisions; not a second item-by-item primary-source verification."
+      },
+      "sha256": "8cc514cd8c655cfa683d1c7bdb0652b4c84972a2f9c907340431ee824f08b246"
+    },
+    {
+      "diagram_id": "D23",
+      "file": "08-empty-states-by-cause.svg",
+      "chapter": "book/08-finish-and-real-states.md",
+      "title": "同样没有条目，原因与下一步可以不同",
+      "alt": "匿名教师反馈台分别显示首次尚无内容、筛选无结果、读取失败和处理完成，配创建、清除筛选、重试或查看记录。状态必须有事实依据，处理完成不代表学习掌握。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG geometry, anonymous teaching-workbench scenarios and original text; no source images or third-party media",
+      "source_ids": [
+        "RUI-FINISH-04",
+        "CARBON-FINISH-EMPTY",
+        "W3C-FINISH-STATUS"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS QuickLook local SVG rasterization to full-size PNG",
+        "checked": "all three rasterized diagrams actually viewed: Chinese text, boundaries, control comparisons, state wording and visual meaning; no apparent collision or unintended clipping",
+        "limits": "not a functioning product, keyboard/assistive-technology test, user comparison or learning-outcome evidence",
+        "independent_review": "Full chapter, source-review boundary and all three rasterized diagrams separately reviewed by another manuscript editor (also the primary source-image observer); no required changes, no clipping or collisions; not a second item-by-item primary-source verification."
+      },
+      "sha256": "86ed8bbfbc9334e5184440295c895c3827e2e6ec4a51f1659aaa1d0eb50a862a"
+    },
+    {
+      "diagram_id": "D24",
+      "file": "08-semantics-survive-restyling.svg",
+      "chapter": "book/08-finish-and-real-states.md",
+      "title": "改变外观，保留对象真正的含义",
+      "alt": "当前导航页、练习方式单选卡片与课程能力介绍的装饰顶线分开表达；图形不证明语义、键盘或真实状态已实现。",
+      "created_on": "2026-10-30",
+      "creation": "original SVG geometry, anonymous teaching-workbench scenarios and original text; no source images or third-party media",
+      "source_ids": [
+        "RUI-FINISH-01",
+        "RUI-FINISH-02",
+        "RUI-FINISH-06",
+        "W3C-FINISH-CURRENT",
+        "W3C-FINISH-RADIO",
+        "W3C-FINISH-LABELS",
+        "W3C-FINISH-GROUPS"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "macOS QuickLook local SVG rasterization to full-size PNG",
+        "checked": "all three rasterized diagrams actually viewed: Chinese text, boundaries, control comparisons, state wording and visual meaning; no apparent collision or unintended clipping",
+        "limits": "not a functioning product, keyboard/assistive-technology test, user comparison or learning-outcome evidence",
+        "independent_review": "Full chapter, source-review boundary and all three rasterized diagrams separately reviewed by another manuscript editor (also the primary source-image observer); no required changes, no clipping or collisions; not a second item-by-item primary-source verification."
+      },
+      "sha256": "69a13fa5f32e40de31d13d8271e577ac54d009b95d99417d6723089922228857"
+    },
+    {
+      "diagram_id": "D25",
+      "file": "09-metric-contract.svg",
+      "chapter": "book/09-metrics-and-learning.md",
+      "title": "一项指标需要一份明确的约定",
+      "alt": "从期望结果到可观察表现，再到计数口径。失败护栏跨越各项，错误和未知不能被增长数字遮住。",
+      "created_on": "2026-10-30",
+      "creation": "Original SVG geometry, original measurement and learning scenarios and original text; no source images or third-party media.",
+      "source_ids": [
+        "METRIC-GOOGLE-2010"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "Bundled Sharp local SVG rasterization to full-frame 2400 by 1600 PNG; no dependency installed.",
+        "checked": "Author actually viewed all three final rendered diagrams for Chinese text, boundaries, relationships and agreement with captions. No apparent collision or unintended clipping. Optional help in D27 was clarified and the final render reviewed again.",
+        "limits": "Not an operating product, controlled comparison, participant observation or learning-outcome result.",
+        "independent_review": "Another manuscript editor independently read the complete chapter and actually viewed all three final PNGs; no figure-text mismatch or clipping found. The integrated SVG files are byte-identical to those reviewed."
+      },
+      "sha256": "afdf248caa10daac9b4571ef3494430d47e7bf16792db1ccc8c3cd60cafc461c"
+    },
+    {
+      "diagram_id": "D26",
+      "file": "09-comparison-boundaries.svg",
+      "chapter": "book/09-metrics-and-learning.md",
+      "title": "比较方式决定结论能走多远",
+      "alt": "三列分别呈现真实任务观察、先后比较和随机比较，每列列出能回答的问题与不可跨越的结论边界。",
+      "created_on": "2026-10-30",
+      "creation": "Original SVG geometry, original measurement and learning scenarios and original text; no source images or third-party media.",
+      "source_ids": [
+        "METRIC-NIST-RANDOM",
+        "METRIC-CANADA-2019"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "Bundled Sharp local SVG rasterization to full-frame 2400 by 1600 PNG; no dependency installed.",
+        "checked": "Author actually viewed all three final rendered diagrams for Chinese text, boundaries, relationships and agreement with captions. No apparent collision or unintended clipping. Optional help in D27 was clarified and the final render reviewed again.",
+        "limits": "Not an operating product, controlled comparison, participant observation or learning-outcome result.",
+        "independent_review": "Another manuscript editor independently read the complete chapter and actually viewed all three final PNGs; no figure-text mismatch or clipping found. The integrated SVG files are byte-identical to those reviewed."
+      },
+      "sha256": "d2c3b610ef0b51d587ee49f230bcdd5c968a041ef170ca85a81e556dd2a5373c"
+    },
+    {
+      "diagram_id": "D27",
+      "file": "09-learning-evidence.svg",
+      "chapter": "book/09-metrics-and-learning.md",
+      "title": "操作完成与学习表现分别记录",
+      "alt": "上轨记录进入、作答和保存。下轨记录首答、帮助后重试、相近新题和延迟复查，并保留每一步条件，不自动等同掌握。",
+      "created_on": "2026-10-30",
+      "creation": "Original SVG geometry, original measurement and learning scenarios and original text; no source images or third-party media.",
+      "source_ids": [
+        "LEARNING-IES-2007",
+        "LEARNING-NRC-2000"
+      ],
+      "third_party_assets": [],
+      "reuse_license": "not yet specified; see NOTICES.md",
+      "status": "draft illustration",
+      "visual_review": {
+        "render": "Bundled Sharp local SVG rasterization to full-frame 2400 by 1600 PNG; no dependency installed.",
+        "checked": "Author actually viewed all three final rendered diagrams for Chinese text, boundaries, relationships and agreement with captions. No apparent collision or unintended clipping. Optional help in D27 was clarified and the final render reviewed again.",
+        "limits": "Not an operating product, controlled comparison, participant observation or learning-outcome result.",
+        "independent_review": "Another manuscript editor independently read the complete chapter and actually viewed all three final PNGs; no figure-text mismatch or clipping found. The integrated SVG files are byte-identical to those reviewed."
+      },
+      "sha256": "206c5837cb2239603c774496b8fbf8efbc6735f17436a4dbe170d6ff31884294"
+    }
+  ]
+}

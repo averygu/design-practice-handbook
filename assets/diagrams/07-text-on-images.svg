@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1010" viewBox="0 0 1200 1010" role="img" aria-labelledby="title desc">
+<title id="title">对比要覆盖文字实际出现的位置</title><desc id="desc">同一抽象背景有明暗不同区域。左侧白字直接叠放，局部接近背景；中间白字放在不透明深色底面；右侧把深色文字放在图片之外的白色区域。这不是照片修图或实测合规证据。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1010" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 20 · 原创示意 / 图片与用途</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">对比要覆盖文字实际出现的位置</text>
+<text x="48" y="150" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">三处使用同一原创几何背景；文字承载方式变化，各自有取舍。</text>
+<defs><g id="scene">
+<rect x="0" y="0" width="320" height="250" rx="0" fill="#f4e7bd" stroke="none"/>
+<path d="M 0 0 H 72 V 250 H 0 Z" fill="#234d48"/>
+<path d="M 0 250 L 150 100 L 260 250 Z" fill="#6b9987"/>
+<circle cx="254" cy="66" r="41" fill="#fbf8ec"/>
+<line x1="151" y1="0" x2="151" y2="250" stroke="#dabf83" stroke-width="3"/>
+</g></defs>
+<text x="48" y="213" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">直接叠放</text>
+<rect x="48" y="244" width="336" height="366" rx="12" fill="white" stroke="#c8d4cb"/>
+<use xlink:href="#scene" transform="translate(56 252)"/>
+<text x="80" y="340" font-size="34" font-weight="700" fill="white" text-anchor="start">练习说明</text>
+<text x="432" y="213" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">给文字独立底面</text>
+<rect x="432" y="244" width="336" height="366" rx="12" fill="white" stroke="#c8d4cb"/>
+<use xlink:href="#scene" transform="translate(440 252)"/>
+<rect x="456" y="391" width="288" height="82" rx="7" fill="#234d48" stroke="none"/>
+<text x="480" y="444" font-size="34" font-weight="700" fill="white" text-anchor="start">练习说明</text>
+<text x="816" y="213" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">文字移到图外</text>
+<rect x="816" y="244" width="336" height="366" rx="12" fill="white" stroke="#c8d4cb"/>
+<use xlink:href="#scene" transform="translate(824 252)"/>
+<text x="848" y="565" font-size="34" font-weight="700" fill="#203c3b" text-anchor="start">练习说明</text>
+<text x="48" y="658" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">局部背景接近字色，</text>
+<text x="48" y="694" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">文字可能失去边界。</text>
+<text x="432" y="658" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">底面稳定，但遮住部分图像；</text>
+<text x="432" y="694" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">需要检查是否挡住必要信息。</text>
+<text x="816" y="658" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">另占文字空间，</text>
+<text x="816" y="694" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">图片内容可以保留。</text>
+<rect x="48" y="755" width="1104" height="147" rx="12" fill="#e9f0ea" stroke="#c8d4cb"/>
+<text x="76" y="798" font-size="27" font-weight="700" fill="#203c3b" text-anchor="start">遮罩、位置和文字区域，都要与内容一起检查。</text>
+<text x="76" y="840" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">替换图片、换行或改变尺寸后，重新检查文字背后的实际区域。</text>
+<text x="76" y="877" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">固定遮罩比例或柔影参数，不保证所有照片与字号都可读。</text>
+<line x1="48" y1="938" x2="1152" y2="938" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="974" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创图形与场景 · 不是真实照片、产品截图、学生作业或完整无障碍验收</text>
+</svg>

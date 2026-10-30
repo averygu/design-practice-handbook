@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800" role="img" aria-labelledby="title desc">
+<title id="title">操作完成与学习表现分别记录</title><desc id="desc">上轨记录进入、作答和保存。下轨记录首答、帮助后重试、相近新题和延迟复查，并保留每一步条件，不自动等同掌握。</desc>
+<defs><marker id="arrow" markerWidth="9" markerHeight="9" refX="8" refY="4.5" orient="auto"><path d="M0,0 L9,4.5 L0,9" fill="#43655b"/></marker></defs>
+<style>text{font-family:"PingFang SC","Noto Sans CJK SC","Microsoft YaHei",sans-serif;fill:#23362f}.title{font-size:32px;font-weight:650}.sub{font-size:21px;fill:#52635a}.head{font-size:25px;font-weight:600}.body{font-size:22px}.small{font-size:19px;fill:#52635a}.tag{font-size:17px;fill:#49655b;font-weight:600}</style>
+<rect width="1200" height="800" fill="#f6f7f2"/>
+<text x="48" y="62" class="title">操作完成与学习表现分别记录</text>
+<text x="48" y="104" class="sub">原创机制示意 · 方案草稿 · 未运行实验</text>
+<rect x="48" y="151" width="1104" height="188" rx="16" fill="#eaf1ed" stroke="#8ea99a" stroke-width="2"/>
+<text x="72" y="192" class="head">操作轨</text>
+<rect x="72" y="218" width="274" height="75" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="96" y="265" class="body">进入有效练习</text>
+<rect x="463" y="218" width="274" height="75" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="487" y="265" class="body">完成输入</text>
+<rect x="854" y="218" width="274" height="75" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="878" y="265" class="body">保存结果可确认</text>
+<path d="M353,256 L450,256" fill="none" stroke="#43655b" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M744,256 L841,256" fill="none" stroke="#43655b" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="48" y="398" class="head">学习轨：每一步保留题目、答案与帮助条件</text>
+<rect x="48" y="430" width="250" height="188" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="68" y="474" class="head">独立首答</text>
+<text x="68" y="514" class="head">保留原始答案</text>
+<text x="68" y="574" class="small">不被反馈覆盖</text>
+<rect x="332" y="430" width="250" height="188" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="352" y="474" class="body">按需帮助后重试</text>
+<text x="352" y="514" class="body">标明用了什么提示</text>
+<text x="352" y="574" class="small">不算无提示成功</text>
+<rect x="616" y="430" width="250" height="188" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="636" y="474" class="body">相近新题</text>
+<text x="636" y="514" class="body">改变情境与表面信息</text>
+<text x="636" y="574" class="small">保留可比评分标准</text>
+<rect x="900" y="430" width="250" height="188" rx="16" fill="#ffffff" stroke="#bec8c3" stroke-width="2"/>
+<text x="920" y="474" class="body">延迟复查</text>
+<text x="920" y="514" class="body">记录间隔与期间练习</text>
+<text x="920" y="574" class="small">缺席另列，不补造</text>
+<path d="M302,523 L324,523" fill="none" stroke="#43655b" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M586,523 L608,523" fill="none" stroke="#43655b" stroke-width="3" marker-end="url(#arrow)"/>
+<path d="M870,523 L892,523" fill="none" stroke="#43655b" stroke-width="3" marker-end="url(#arrow)"/>
+<text x="48" y="688" class="body">上轨成功不等于下轨已掌握；下轨箭头是计划过程，不保证进步。</text>
+<text x="48" y="734" class="small">无需帮助时可直接进入新题；合理的阅读、输入与无障碍支持不等于答案提示。</text>
+</svg>

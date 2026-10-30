@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1260" viewBox="0 0 1200 1260" role="img" aria-labelledby="title desc">
+<title id="title">正文可以拥有自己的阅读列宽</title><desc id="desc">上方反馈段落使用较宽的正文列，下方原文完整放入较窄列，字号与行高不变。右侧提示检查回行、连续理解与是否仍能找到相关动作，不规定普适汉字数量。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}.number{font-family:Menlo,monospace}</style>
+<rect width="1200" height="1260" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 11 · 原创示意 / 阅读与文字</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">正文可以拥有自己的阅读列宽</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">同一段中文、同一字号与行高；这里只改变正文列宽，再观察换行。</text>
+<text x="48" y="208" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">较宽的正文列</text>
+<rect x="48" y="234" width="1104" height="296" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="76" y="292" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">读完这段反馈后，先找出原答案中已经说清的部分，再标出需要补充的原因。修改时可以保留原来的观点，</text>
+<text x="76" y="332" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">但要说明这个原因怎样支持你的选择。如果暂时无法解释，就回到材料里找依据，不要为了让句子显得完整</text>
+<text x="76" y="372" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">而增加没有提供的事实。最后再读一遍，确认新的句子仍然表达你的意思。</text>
+<text x="76" y="492" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">行宽改变，回到下一行的距离也会改变。</text>
+<text x="48" y="594" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">收窄正文列，保留全部内容</text>
+<rect x="48" y="620" width="700" height="420" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="76" y="680" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">读完这段反馈后，先找出原答案中已经说清的部分，再标出需要</text>
+<text x="76" y="720" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">补充的原因。修改时可以保留原来的观点，但要说明这个原因怎</text>
+<text x="76" y="760" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">样支持你的选择。如果暂时无法解释，就回到材料里找依据，不</text>
+<text x="76" y="800" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">要为了让句子显得完整而增加没有提供的事实。最后再读一遍，</text>
+<text x="76" y="840" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">确认新的句子仍然表达你的意思。</text>
+<text x="788" y="674" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">检查实际阅读</text>
+<text x="788" y="730" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">能否连续理解？</text>
+<text x="788" y="778" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">是否找错下一行？</text>
+<text x="788" y="826" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">会不会频繁回看？</text>
+<text x="788" y="874" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">相关入口还好找吗？</text>
+<text x="788" y="966" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">这些是待验证的问题，</text>
+<text x="788" y="1002" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">不是图中已经测得的结果。</text>
+<text x="48" y="1099" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">不把英文字符经验换算成固定汉字数。</text>
+<text x="48" y="1140" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">字体、字号、语言、窗口与阅读任务一起决定该怎样调整。</text>
+<line x1="48" y1="1188" x2="1152" y2="1188" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1224" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创教学示意 · 图中尺寸不是通用规格 · 未证明产品、无障碍符合性或学习效果</text>
+</svg>

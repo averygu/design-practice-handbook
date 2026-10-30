@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1130" viewBox="0 0 1200 1130" role="img" aria-labelledby="title desc">
+<title id="title">标签、内容与文档结构</title><desc id="desc">读进度、查属性和输入内容需要不同的标签强调。下半图分别呈现文档结构与视觉样式，二者不能互相代替。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1130" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 05 · 原创示意 / 标签与结构</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">标签的作用，来自读者正在做什么</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">数据展示可减少重复；输入目的与内容关系仍需清楚表达。</text>
+<rect x="48" y="206" width="352" height="450" rx="16" fill="white" stroke="#c8d4cb"/>
+<rect x="424" y="206" width="352" height="450" rx="16" fill="white" stroke="#c8d4cb"/>
+<rect x="800" y="206" width="352" height="450" rx="16" fill="white" stroke="#c8d4cb"/>
+<text x="72" y="254" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">读进度</text>
+<text x="72" y="298" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">先看带单位的结果</text>
+<text x="72" y="388" font-size="40" font-weight="700" fill="#203c3b" text-anchor="start">3条回答</text>
+<text x="72" y="432" font-size="25" font-weight="500" fill="#203c3b" text-anchor="start">待讲评</text>
+<text x="72" y="548" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">数字、单位和状态</text>
+<text x="72" y="584" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">共同构成完整含义。</text>
+<text x="448" y="254" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">查属性</text>
+<text x="448" y="298" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">标签成为扫描入口</text>
+<text x="448" y="356" font-size="21" font-weight="700" fill="#203c3b" text-anchor="start">授课时间</text>
+<text x="448" y="392" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">明天 10:00</text>
+<text x="448" y="452" font-size="21" font-weight="700" fill="#203c3b" text-anchor="start">班级</text>
+<text x="448" y="488" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">写作一班</text>
+<text x="448" y="548" font-size="21" font-weight="700" fill="#203c3b" text-anchor="start">主题</text>
+<text x="448" y="584" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">论证结构</text>
+<text x="824" y="254" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">输入内容</text>
+<text x="824" y="298" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">明确说明字段用途</text>
+<text x="824" y="363" font-size="22" font-weight="600" fill="#203c3b" text-anchor="start">讲评标题</text>
+<rect x="824" y="385" width="304" height="64" rx="6" fill="white" stroke="#526a65"/>
+<text x="844" y="425" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">论证结构复盘</text>
+<text x="824" y="548" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">已填内容不能代替</text>
+<text x="824" y="584" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">持续可见的字段标签。</text>
+<text x="48" y="718" font-size="28" font-weight="700" fill="#203c3b" text-anchor="start">结构表达“是什么”，样式表达“此刻先看什么”</text>
+<rect x="48" y="746" width="528" height="266" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<rect x="624" y="746" width="528" height="266" rx="16" fill="white" stroke="#c8d4cb"/>
+<text x="72" y="788" font-size="20" font-weight="700" fill="#526a65" text-anchor="start">文档结构示意</text>
+<text x="72" y="838" font-size="24" font-weight="600" fill="#203c3b" text-anchor="start">一级标题：讲评准备</text>
+<text x="112" y="891" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">二级标题：教学目标</text>
+<text x="112" y="944" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">二级标题：答案筛选</text>
+<text x="648" y="788" font-size="20" font-weight="700" fill="#526a65" text-anchor="start">视觉呈现示意</text>
+<text x="648" y="832" font-size="21" font-weight="500" fill="#526a65" text-anchor="start">讲评准备</text>
+<text x="648" y="886" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">教学目标</text>
+<text x="648" y="924" font-size="19" font-weight="400" fill="#203c3b" text-anchor="start">明确这次讲评要帮助学生做到什么。</text>
+<text x="648" y="976" font-size="25" font-weight="600" fill="#203c3b" text-anchor="start">答案筛选</text>
+<line x1="48" y1="1056" x2="1152" y2="1056" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1092" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创示意 · 不是网页实现；输入关联、标题结构和辅助技术读取仍需实际核验</text>
+</svg>

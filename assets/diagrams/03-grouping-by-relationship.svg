@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1020" viewBox="0 0 1200 1020" role="img" aria-labelledby="title desc">
+<title id="title">让距离说明：哪些文字属于同一组</title><desc id="desc">左右均有观察和改写两个标题及对应说明。左侧标题与说明之间、两组之间距离接近；右侧标题靠近自己的说明，两组拉开。图下说明组内收紧与组间分开可以同时进行。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1020" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 07 · 原创示意 / 布局与密度</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">让距离说明：哪些文字属于同一组</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">示例正文、字号、行距与面板宽度一致；注释说明改变的距离。</text>
+<text x="48" y="206" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">每处都留相近的距离</text>
+<rect x="48" y="236" width="528" height="488" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="624" y="206" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">把空间分给不同关系</text>
+<rect x="624" y="236" width="528" height="488" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="78" y="292" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">观察</text>
+<text x="78" y="368" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">读原句，找出没有说清的原因。</text>
+<text x="78" y="404" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">先想一想，再打开下一步。</text>
+<text x="78" y="480" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">改写</text>
+<text x="78" y="556" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">补出具体原因，写成一个完整句。</text>
+<text x="78" y="592" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">保留原意，不增加未经提供的事实。</text>
+<text x="654" y="292" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">观察</text>
+<text x="654" y="332" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">读原句，找出没有说清的原因。</text>
+<text x="654" y="368" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">先想一想，再打开下一步。</text>
+<text x="654" y="480" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">改写</text>
+<text x="654" y="520" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">补出具体原因，写成一个完整句。</text>
+<text x="654" y="556" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">保留原意，不增加未经提供的事实。</text>
+<line x1="548" y1="304" x2="548" y2="344" stroke="#956337" stroke-width="2"/>
+<line x1="543" y1="304" x2="553" y2="304" stroke="#956337" stroke-width="2"/>
+<line x1="543" y1="344" x2="553" y2="344" stroke="#956337" stroke-width="2"/>
+<line x1="548" y1="416" x2="548" y2="456" stroke="#956337" stroke-width="2"/>
+<line x1="543" y1="416" x2="553" y2="416" stroke="#956337" stroke-width="2"/>
+<line x1="543" y1="456" x2="553" y2="456" stroke="#956337" stroke-width="2"/>
+<line x1="548" y1="492" x2="548" y2="532" stroke="#956337" stroke-width="2"/>
+<line x1="543" y1="492" x2="553" y2="492" stroke="#956337" stroke-width="2"/>
+<line x1="543" y1="532" x2="553" y2="532" stroke="#956337" stroke-width="2"/>
+<line x1="1124" y1="304" x2="1124" y2="308" stroke="#315e54" stroke-width="2"/>
+<line x1="1119" y1="304" x2="1129" y2="304" stroke="#315e54" stroke-width="2"/>
+<line x1="1119" y1="308" x2="1129" y2="308" stroke="#315e54" stroke-width="2"/>
+<line x1="1124" y1="380" x2="1124" y2="456" stroke="#315e54" stroke-width="2"/>
+<line x1="1119" y1="380" x2="1129" y2="380" stroke="#315e54" stroke-width="2"/>
+<line x1="1119" y1="456" x2="1129" y2="456" stroke="#315e54" stroke-width="2"/>
+<line x1="1124" y1="492" x2="1124" y2="496" stroke="#315e54" stroke-width="2"/>
+<line x1="1119" y1="492" x2="1129" y2="492" stroke="#315e54" stroke-width="2"/>
+<line x1="1119" y1="496" x2="1129" y2="496" stroke="#315e54" stroke-width="2"/>
+<text x="78" y="677" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">标题与相邻说明的归属需要再判断</text>
+<text x="654" y="677" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">标题贴近自己的说明，两组有分隔</text>
+<rect x="48" y="772" width="1104" height="128" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="72" y="814" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">看关系，不看空白总量</text>
+<text x="72" y="854" font-size="22" font-weight="400" fill="#526a65" text-anchor="start">组内可以更紧，组间可以更松；还要检查多行内容和真实读者的理解。</text>
+<line x1="48" y1="948" x2="1152" y2="948" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="984" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与构图 · 尺寸只用于说明关系 · 不是已测产品或学习效果证据</text>
+</svg>

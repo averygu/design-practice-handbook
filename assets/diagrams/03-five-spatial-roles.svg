@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1180" viewBox="0 0 1200 1180" role="img" aria-labelledby="title desc">
+<title id="title">五类空间，各自承担不同工作</title><desc id="desc">练习导航位于左侧，主区域包含待比较的两条答案和下方共同问题。五个标注分别指向导航宽度、主内容内边距、区块间距、同组答案间距及答案内部内边距。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1180" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 08 · 原创示意 / 布局与密度</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">五类空间，各自承担不同工作</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">以教师比较两条练习答案为例；编号是空间角色，不是像素数值。</text>
+<rect x="48" y="218" width="1104" height="586" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="48" y="218" width="220" height="586" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<line x1="268" y1="218" x2="268" y2="804" stroke="#c8d4cb" stroke-width="1"/>
+<text x="72" y="266" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">练习列表</text>
+<text x="72" y="326" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">1  找出主张</text>
+<rect x="64" y="350" width="188" height="53" rx="8" fill="white" stroke="#315e54"/>
+<text x="80" y="384" font-size="21" font-weight="650" fill="#203c3b" text-anchor="start">2  补出原因</text>
+<text x="72" y="444" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">3  检查例证</text>
+<text x="72" y="504" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">4  完成改写</text>
+<line x1="48" y1="740" x2="268" y2="740" stroke="#315e54" stroke-width="2"/>
+<line x1="48" y1="735" x2="48" y2="745" stroke="#315e54" stroke-width="2"/>
+<line x1="268" y1="735" x2="268" y2="745" stroke="#315e54" stroke-width="2"/>
+<circle cx="158" cy="773" r="16" fill="#315e54"/>
+<text x="158" y="779" font-size="18" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="316" y="267" font-size="28" font-weight="700" fill="#203c3b" text-anchor="start">比较两条答案</text>
+<text x="316" y="307" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">当前练习：补出原因</text>
+<line x1="268" y1="345" x2="316" y2="345" stroke="#315e54" stroke-width="2"/>
+<line x1="268" y1="340" x2="268" y2="350" stroke="#315e54" stroke-width="2"/>
+<line x1="316" y1="340" x2="316" y2="350" stroke="#315e54" stroke-width="2"/>
+<circle cx="292" cy="381" r="16" fill="#315e54"/>
+<text x="292" y="387" font-size="18" font-weight="700" fill="white" text-anchor="middle">2</text>
+<rect x="316" y="350" width="376" height="230" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="716" y="350" width="376" height="230" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="344" y="399" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">回答 A</text>
+<text x="344" y="452" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">它展示了人物作出</text>
+<text x="344" y="490" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">决定的过程。</text>
+<text x="344" y="550" font-size="19" font-weight="500" fill="#315e54" text-anchor="start">查看原题</text>
+<text x="744" y="399" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">回答 B</text>
+<text x="744" y="452" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">它让读者看到选择</text>
+<text x="744" y="490" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">带来的后果。</text>
+<text x="744" y="550" font-size="19" font-weight="500" fill="#315e54" text-anchor="start">查看原题</text>
+<line x1="694" y1="466" x2="714" y2="466" stroke="#315e54" stroke-width="2"/>
+<line x1="694" y1="461" x2="694" y2="471" stroke="#315e54" stroke-width="2"/>
+<line x1="714" y1="461" x2="714" y2="471" stroke="#315e54" stroke-width="2"/>
+<circle cx="704" cy="503" r="16" fill="#315e54"/>
+<text x="704" y="509" font-size="18" font-weight="700" fill="white" text-anchor="middle">4</text>
+<line x1="716" y1="374" x2="744" y2="374" stroke="#315e54" stroke-width="2"/>
+<line x1="716" y1="369" x2="716" y2="379" stroke="#315e54" stroke-width="2"/>
+<line x1="744" y1="369" x2="744" y2="379" stroke="#315e54" stroke-width="2"/>
+<line x1="744" y1="374" x2="756" y2="354" stroke="#315e54" stroke-width="1"/>
+<circle cx="767" cy="340" r="16" fill="#315e54"/>
+<text x="767" y="346" font-size="18" font-weight="700" fill="white" text-anchor="middle">5</text>
+<line x1="1118" y1="582" x2="1118" y2="628" stroke="#315e54" stroke-width="2"/>
+<line x1="1113" y1="582" x2="1123" y2="582" stroke="#315e54" stroke-width="2"/>
+<line x1="1113" y1="628" x2="1123" y2="628" stroke="#315e54" stroke-width="2"/>
+<circle cx="1118" cy="606" r="16" fill="#315e54"/>
+<text x="1118" y="612" font-size="18" font-weight="700" fill="white" text-anchor="middle">3</text>
+<rect x="316" y="630" width="776" height="142" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="344" y="676" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">共同问题</text>
+<text x="344" y="719" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">两条回答是否都把原因说具体了？</text>
+<text x="48" y="866" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">分别调整，才知道改变了什么</text>
+<circle cx="66" cy="918" r="16" fill="#315e54"/>
+<text x="66" y="924" font-size="18" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="94" y="924" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">导航宽度</text>
+<text x="94" y="960" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">需要持续切换时才保留</text>
+<circle cx="436" cy="918" r="16" fill="#315e54"/>
+<text x="436" y="924" font-size="18" font-weight="700" fill="white" text-anchor="middle">2</text>
+<text x="464" y="924" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">主区内边距</text>
+<text x="464" y="960" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">给内容稳定的起始边界</text>
+<circle cx="806" cy="918" r="16" fill="#315e54"/>
+<text x="806" y="924" font-size="18" font-weight="700" fill="white" text-anchor="middle">3</text>
+<text x="834" y="924" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">区块间距</text>
+<text x="834" y="960" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">比较区与讲评区分开</text>
+<circle cx="66" cy="1012" r="16" fill="#315e54"/>
+<text x="66" y="1018" font-size="18" font-weight="700" fill="white" text-anchor="middle">4</text>
+<text x="94" y="1018" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">同组间距</text>
+<text x="94" y="1054" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">两条答案仍属于同一组</text>
+<circle cx="436" cy="1012" r="16" fill="#315e54"/>
+<text x="436" y="1018" font-size="18" font-weight="700" fill="white" text-anchor="middle">5</text>
+<text x="464" y="1018" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">组件内边距</text>
+<text x="464" y="1054" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">让文字与边框保持距离</text>
+<line x1="48" y1="1108" x2="1152" y2="1108" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1144" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与构图 · 尺寸只用于说明关系 · 不是已测产品或学习效果证据</text>
+</svg>

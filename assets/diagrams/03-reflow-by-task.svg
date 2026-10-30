@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1220" viewBox="0 0 1200 1220" role="img" aria-labelledby="title desc">
+<title id="title">窗口变窄时，重排任务而非缩小整页</title><desc id="desc">宽窗口中任务区域有限宽，左栏原句和要求，右栏答案与提交。窄窗口保留练习进度，以相同正文大小上下排列原句、要求、答案和提交。标题换行，必要内容没有删除。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1220" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 09 · 原创示意 / 布局与密度</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">窗口变窄时，重排任务而非缩小整页</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">任务内容相同，说明标注不同；宽屏并排参照与作答，窄屏上下排列。</text>
+<text x="48" y="208" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">宽窗口：分栏比较</text>
+<rect x="48" y="234" width="704" height="624" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="80" y="282" font-size="19" font-weight="500" fill="#526a65" text-anchor="start">练习 2 / 4</text>
+<text x="80" y="329" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">把原因写成具体的解释句</text>
+<rect x="80" y="366" width="312" height="412" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="104" y="409" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">原句</text>
+<text x="104" y="455" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">我选择这个例子，</text>
+<text x="104" y="491" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">因为它比较好。</text>
+<text x="104" y="573" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">要求</text>
+<text x="104" y="619" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">补出具体原因。</text>
+<text x="424" y="409" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">你的改写</text>
+<rect x="424" y="435" width="296" height="198" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="446" y="480" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">它展示了人物作出</text>
+<text x="446" y="516" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">决定的过程。</text>
+<rect x="424" y="677" width="296" height="60" rx="8" fill="#315e54" stroke="#315e54"/>
+<text x="572" y="716" font-size="23" font-weight="650" fill="white" text-anchor="middle">提交改写</text>
+<text x="80" y="824" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">剩余空间不必再塞入新模块</text>
+<text x="804" y="208" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">窄窗口：上下排列</text>
+<rect x="804" y="234" width="348" height="756" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="828" y="282" font-size="19" font-weight="500" fill="#526a65" text-anchor="start">练习 2 / 4</text>
+<text x="828" y="329" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">把原因写成</text>
+<text x="828" y="369" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">具体的解释句</text>
+<rect x="828" y="396" width="300" height="234" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="850" y="435" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">原句</text>
+<text x="850" y="477" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">我选择这个例子，</text>
+<text x="850" y="513" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">因为它比较好。</text>
+<text x="850" y="565" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">要求</text>
+<text x="850" y="605" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">补出具体原因。</text>
+<text x="828" y="683" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">你的改写</text>
+<rect x="828" y="708" width="300" height="150" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="850" y="752" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">它展示了人物作出</text>
+<text x="850" y="788" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">决定的过程。</text>
+<rect x="828" y="898" width="300" height="60" rx="8" fill="#315e54" stroke="#315e54"/>
+<text x="978" y="937" font-size="23" font-weight="650" fill="white" text-anchor="middle">提交改写</text>
+<rect x="48" y="892" width="704" height="98" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="72" y="931" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">可以伸缩：正文区域</text>
+<text x="72" y="966" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">需要另查：长标题、文字放大、焦点与输入法</text>
+<text x="48" y="1051" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">保留任务，改变排列</text>
+<text x="48" y="1093" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">示意不是响应式实现；真实滚动、输入、保存与触控仍需单独检查。</text>
+<line x1="48" y1="1148" x2="1152" y2="1148" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1184" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与构图 · 尺寸只用于说明关系 · 不是已测产品或学习效果证据</text>
+</svg>

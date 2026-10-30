@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1010" viewBox="0 0 1200 1010" role="img" aria-labelledby="title desc">
+<title id="title">先问图片在这里承担什么用途</title><desc id="desc">三列分别说明信息图、图像入口和装饰。信息图表达先观察再改写；入口的名称是查看完整练习图；装饰不承担唯一信息。图中元素均为原创，图像入口不是可操作控件。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1010" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 19 · 原创示意 / 图片与用途</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">先问图片在这里承担什么用途</text>
+<text x="48" y="150" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">信息、动作与装饰的处理取决于页面上下文，不能只看文件类型。</text>
+<text x="48" y="215" font-size="27" font-weight="700" fill="#203c3b" text-anchor="start">传递信息</text>
+<rect x="48" y="244" width="336" height="466" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="432" y="215" font-size="27" font-weight="700" fill="#203c3b" text-anchor="start">作为入口</text>
+<rect x="432" y="244" width="336" height="466" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="816" y="215" font-size="27" font-weight="700" fill="#203c3b" text-anchor="start">只作装饰</text>
+<rect x="816" y="244" width="336" height="466" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="72" y="276" width="288" height="192" rx="12" fill="#e9f0ea" stroke="#c8d4cb"/>
+<rect x="86" y="337" width="105" height="61" rx="7" fill="white" stroke="#315e54"/>
+<text x="138" y="376" font-size="26" font-weight="700" fill="#203c3b" text-anchor="middle">观察</text>
+<line x1="199" y1="367" x2="232" y2="367" stroke="#315e54" stroke-width="3"/>
+<path d="M 221 357 L 232 367 L 221 377" fill="none" stroke="#315e54" stroke-width="3"/>
+<rect x="241" y="337" width="105" height="61" rx="7" fill="white" stroke="#315e54"/>
+<text x="293" y="376" font-size="26" font-weight="700" fill="#203c3b" text-anchor="middle">改写</text>
+<text x="72" y="515" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">要保留：顺序与关系</text>
+<text x="72" y="558" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">替代内容应传达：</text>
+<text x="72" y="598" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">先观察原句，再改写。</text>
+<text x="72" y="670" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">复杂信息可另配详细说明。</text>
+<rect x="456" y="276" width="288" height="192" rx="12" fill="#e9f0ea" stroke="#c8d4cb"/>
+<rect x="547" y="303" width="82" height="112" rx="5" fill="white" stroke="#315e54"/>
+<line x1="563" y1="327" x2="611" y2="327" stroke="#315e54" stroke-width="3"/>
+<line x1="563" y1="346" x2="600" y2="346" stroke="#315e54" stroke-width="3"/>
+<line x1="563" y1="365" x2="607" y2="365" stroke="#315e54" stroke-width="3"/>
+<circle cx="627" cy="397" r="27" fill="white" stroke="#315e54" stroke-width="4"/>
+<line x1="647" y1="417" x2="670" y2="440" stroke="#315e54" stroke-width="5"/>
+<text x="456" y="515" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">要保留：动作或目的地</text>
+<text x="456" y="558" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">这个入口的名称是：</text>
+<text x="456" y="598" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">查看完整练习图</text>
+<text x="456" y="670" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">有等效文字时避免重复朗读。</text>
+<rect x="840" y="276" width="288" height="192" rx="12" fill="#e9f0ea" stroke="#c8d4cb"/>
+<path d="M 860 304 Q 908 279 956 304 T 1052 304 T 1108 304" fill="none" stroke="#b3c6bb" stroke-width="3"/>
+<path d="M 860 327 Q 908 302 956 327 T 1052 327 T 1108 327" fill="none" stroke="#b3c6bb" stroke-width="3"/>
+<path d="M 860 350 Q 908 325 956 350 T 1052 350 T 1108 350" fill="none" stroke="#b3c6bb" stroke-width="3"/>
+<text x="864" y="420" font-size="29" font-weight="700" fill="#203c3b" text-anchor="start">开始练习</text>
+<text x="864" y="452" font-size="15" font-weight="400" fill="#526a65" text-anchor="start">页面文字，不属于装饰图</text>
+<text x="840" y="515" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">要保留：正文与动作</text>
+<text x="840" y="558" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">纹样没有额外含义：</text>
+<text x="840" y="598" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">可作为装饰处理。</text>
+<text x="840" y="670" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">仅纹样用空alt，保留正文。</text>
+<rect x="48" y="755" width="1104" height="147" rx="12" fill="#e9f0ea" stroke="#c8d4cb"/>
+<text x="76" y="798" font-size="27" font-weight="700" fill="#203c3b" text-anchor="start">先判断用途，再选择技术。</text>
+<text x="76" y="840" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">有意义的图像需要保留等效信息；纯装饰不应增加无关朗读。</text>
+<text x="76" y="877" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">本图是说明图，入口名称与替代内容仅为设计示例。</text>
+<line x1="48" y1="938" x2="1152" y2="938" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="974" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创图形与场景 · 不是真实照片、产品截图、学生作业或完整无障碍验收</text>
+</svg>

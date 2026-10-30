@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1260" viewBox="0 0 1200 1260" role="img" aria-labelledby="title desc">
+<title id="title">先定文字角色，再决定如何强调</title><desc id="desc">左侧原创反馈页包含练习定位、主要反馈、修改和查看入口，以及保存状态；右侧解释各自的阅读职责。下方将大标题与较小入口放在同一基线，并说明此做法不适用于所有对象。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}.number{font-family:Menlo,monospace}</style>
+<rect width="1200" height="1260" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 10 · 原创示意 / 阅读与文字</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">先定文字角色，再决定如何强调</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">用字号、字重、位置与分组配合；不要求每个角色都有一种新字号。</text>
+<rect x="48" y="218" width="690" height="626" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="82" y="271" font-size="22" font-weight="500" fill="#526a65" text-anchor="start">练习2：解释一个选择</text>
+<text x="82" y="354" font-size="32" font-weight="700" fill="#203c3b" text-anchor="start">把理由与选择连起来</text>
+<text x="82" y="424" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">你已经写出原因。</text>
+<text x="82" y="468" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">再补一句：这个原因怎样支持你的选择？</text>
+<text x="82" y="555" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">先读原答案，再决定要改哪一句。</text>
+<rect x="82" y="628" width="230" height="64" rx="8" fill="#315e54" stroke="#315e54"/>
+<text x="197" y="670" font-size="23" font-weight="650" fill="white" text-anchor="middle">修改这一句</text>
+<text x="358" y="669" font-size="22" font-weight="500" fill="#315e54" text-anchor="start">查看原答案</text>
+<line x1="358" y1="674" x2="468" y2="674" stroke="#315e54" stroke-width="1.5"/>
+<line x1="82" y1="737" x2="704" y2="737" stroke="#c8d4cb" stroke-width="1"/>
+<text x="82" y="787" font-size="22" font-weight="500" fill="#203c3b" text-anchor="start">草稿已保存</text>
+<circle cx="788" cy="263" r="16" fill="#315e54"/>
+<text x="788" y="269" font-size="18" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="820" y="270" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">定位</text>
+<text x="820" y="309" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">让人知道读的是哪次练习</text>
+<circle cx="788" cy="405" r="16" fill="#315e54"/>
+<text x="788" y="411" font-size="18" font-weight="700" fill="white" text-anchor="middle">2</text>
+<text x="820" y="412" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">主要阅读</text>
+<text x="820" y="451" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">让完整解释连续、清楚</text>
+<circle cx="788" cy="635" r="16" fill="#315e54"/>
+<text x="788" y="641" font-size="18" font-weight="700" fill="white" text-anchor="middle">3</text>
+<text x="820" y="642" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">行动与入口</text>
+<text x="820" y="681" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">能发现，也能预测后果</text>
+<circle cx="788" cy="776" r="16" fill="#315e54"/>
+<text x="788" y="782" font-size="18" font-weight="700" fill="white" text-anchor="middle">4</text>
+<text x="820" y="783" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">状态</text>
+<text x="820" y="822" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">保持可读，不与结果混淆</text>
+<text x="48" y="906" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">并排文字：检查基线，而非只看外框中心</text>
+<rect x="48" y="936" width="1104" height="218" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="80" y="1006" font-size="35" font-weight="700" fill="#203c3b" text-anchor="start">阅读反馈</text>
+<text x="330" y="1006" font-size="22" font-weight="500" fill="#315e54" text-anchor="start">查看原答</text>
+<line x1="330" y1="1011" x2="418" y2="1011" stroke="#315e54" stroke-width="1.5"/>
+<line x1="80" y1="1006" x2="548" y2="1006" stroke="#315e54" stroke-width="1"/>
+<text x="590" y="1008" font-size="22" font-weight="500" fill="#526a65" text-anchor="start">同一文字行的对齐参考</text>
+<text x="80" y="1073" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">基线不是所有字形的最底边；头像、图标、多行内容需要另行判断。</text>
+<text x="80" y="1112" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">这里的按钮与链接只是静态示意，没有实现输入或导航。</text>
+<line x1="48" y1="1188" x2="1152" y2="1188" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1224" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创教学示意 · 图中尺寸不是通用规格 · 未证明产品、无障碍符合性或学习效果</text>
+</svg>

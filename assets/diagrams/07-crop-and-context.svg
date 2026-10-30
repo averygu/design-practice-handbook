@@ -1,0 +1,38 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1200" height="1230" viewBox="0 0 1200 1230" role="img" aria-labelledby="title desc">
+<title id="title">容器整齐，不能以丢失内容为代价</title><desc id="desc">原图左侧有题号03，中间有原句与改写，右侧有老师反馈位置。居中cover将两侧裁掉；contain保留全图并留下上下空白。示例是原创图形，不是真实学生作业，也不是上传组件运行结果。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1230" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 21 · 原创示意 / 图片与用途</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">容器整齐，不能以丢失内容为代价</text>
+<text x="48" y="150" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">同一原创练习图进入相同大小的框；居中裁切与完整容纳的几何结果不同。</text>
+<defs><g id="worksheet">
+<rect x="0" y="0" width="800" height="240" rx="0" fill="white" stroke="#315e54"/>
+<rect x="0" y="0" width="180" height="240" rx="0" fill="#e9f0ea" stroke="none"/>
+<rect x="620" y="0" width="180" height="240" rx="0" fill="#f2eadb" stroke="none"/>
+<text x="24" y="64" font-size="28" font-weight="700" fill="#203c3b" text-anchor="start">题号 03</text>
+<text x="24" y="112" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">完整要求</text>
+<text x="24" y="154" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">保留原意</text>
+<text x="220" y="64" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">原句与改写</text>
+<text x="220" y="112" font-size="26" font-weight="400" fill="#203c3b" text-anchor="start">补出具体原因。</text>
+<line x1="220" y1="150" x2="580" y2="150" stroke="#c8d4cb" stroke-width="3"/>
+<line x1="220" y1="184" x2="540" y2="184" stroke="#c8d4cb" stroke-width="3"/>
+<text x="640" y="64" font-size="28" font-weight="700" fill="#203c3b" text-anchor="start">老师反馈</text>
+<text x="640" y="112" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">反馈位置</text>
+<text x="640" y="154" font-size="24" font-weight="400" fill="#203c3b" text-anchor="start">需保留</text>
+</g><clipPath id="coverclip"><rect x="48" y="690" width="510" height="300"/></clipPath><clipPath id="containclip"><rect x="642" y="690" width="510" height="300"/></clipPath></defs>
+<text x="80" y="218" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">原图：题号、答案、反馈共同组成上下文</text>
+<use xlink:href="#worksheet" transform="translate(80 248) scale(1.3)"/>
+<text x="48" y="636" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">居中 cover：填满，也会裁切</text>
+<text x="642" y="636" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">contain：保留全图，接受空白</text>
+<rect x="48" y="690" width="510" height="300" rx="0" fill="#edf0ee" stroke="#315e54"/>
+<g clip-path="url(#coverclip)"><use xlink:href="#worksheet" transform="translate(-197 690) scale(1.25)"/></g>
+<rect x="48" y="690" width="510" height="300" rx="0" fill="none" stroke="#315e54"/>
+<rect x="642" y="690" width="510" height="300" rx="0" fill="#edf0ee" stroke="#315e54"/>
+<g clip-path="url(#containclip)"><use xlink:href="#worksheet" transform="translate(642 763.5) scale(.6375)"/></g>
+<rect x="642" y="690" width="510" height="300" rx="0" fill="none" stroke="#315e54"/>
+<text x="48" y="1034" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">题号与反馈不在可见区域中。</text>
+<text x="642" y="1034" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">信息保留，但仍需检查文字大小。</text>
+<text x="48" y="1092" font-size="24" font-weight="700" fill="#203c3b" text-anchor="start">对作业、票据等内容：提供完整查看，不让预览裁切替换原始证据。</text>
+<line x1="48" y1="1158" x2="1152" y2="1158" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1194" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创几何对照 · 尺寸只说明裁切关系 · 不是实际上传组件、学生作业或用户验证</text>
+</svg>

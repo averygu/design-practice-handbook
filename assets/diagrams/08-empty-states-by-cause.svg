@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+<title id="title">同样没有条目，原因与下一步可以不同</title><desc id="desc">四个面板分别为首次使用、筛选无结果、读取失败和全部处理完成。它们提供不同说明与动作：创建练习、清除筛选、重新加载和查看反馈记录。首次空白不与失败混淆，处理完成也不宣称学生已经掌握。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1200" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 23 · 原创示意 / 收尾与真实状态</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">同样没有条目，原因与下一步可以不同</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">匿名教师反馈台的四种情境；状态文案只有在对应事实成立时才能显示。</text>
+<text x="48" y="218" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">首次使用</text>
+<rect x="48" y="246" width="528" height="342" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="76" y="301" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">还没有练习</text>
+<text x="76" y="351" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">创建练习后，学生的提交</text>
+<text x="76" y="392" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">会出现在这里。</text>
+<rect x="76" y="442" width="228" height="54" rx="7" fill="#315e54" stroke="#315e54"/>
+<text x="190.0" y="477" font-size="21" font-weight="650" fill="white" text-anchor="middle">创建练习</text>
+<text x="76" y="539" font-size="18" font-weight="400" fill="#526a65" text-anchor="start">示例状态 · 对应数据结果待实现</text>
+<text x="624" y="218" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">筛选无结果</text>
+<rect x="624" y="246" width="528" height="342" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="652" y="301" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">没有符合条件的提交</text>
+<text x="652" y="351" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">当前筛选：未讲评 · 本周</text>
+<text x="652" y="392" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">清除筛选可查看其他提交。</text>
+<rect x="652" y="442" width="228" height="54" rx="7" fill="#315e54" stroke="#315e54"/>
+<text x="766.0" y="477" font-size="21" font-weight="650" fill="white" text-anchor="middle">清除筛选</text>
+<text x="652" y="539" font-size="18" font-weight="400" fill="#526a65" text-anchor="start">示例状态 · 对应数据结果待实现</text>
+<text x="48" y="650" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">读取失败</text>
+<rect x="48" y="678" width="528" height="342" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="76" y="733" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">暂时无法读取提交</text>
+<text x="76" y="783" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">目前不能确认条目数量。</text>
+<text x="76" y="824" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">请重新加载后再判断。</text>
+<rect x="76" y="874" width="228" height="54" rx="7" fill="#315e54" stroke="#315e54"/>
+<text x="190.0" y="909" font-size="21" font-weight="650" fill="white" text-anchor="middle">重新加载</text>
+<text x="76" y="971" font-size="18" font-weight="400" fill="#526a65" text-anchor="start">示例状态 · 对应数据结果待实现</text>
+<text x="624" y="650" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">处理完成</text>
+<rect x="624" y="678" width="528" height="342" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="652" y="733" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">当前提交均已讲评</text>
+<text x="652" y="783" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">可查看已有反馈记录。</text>
+<text x="652" y="824" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">这不代表学习者已经掌握。</text>
+<rect x="652" y="874" width="228" height="54" rx="7" fill="#315e54" stroke="#315e54"/>
+<text x="766.0" y="909" font-size="21" font-weight="650" fill="white" text-anchor="middle">查看反馈记录</text>
+<text x="652" y="971" font-size="18" font-weight="400" fill="#526a65" text-anchor="start">示例状态 · 对应数据结果待实现</text>
+<text x="48" y="1080" font-size="23" font-weight="650" fill="#203c3b" text-anchor="start">加载尚未完成、没有权限，也应分别说明；不要伪装成“没有内容”。</text>
+<line x1="48" y1="1128" x2="1152" y2="1128" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1164" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与文案 · 静态示意，不代表真实产品、用户记录或无障碍验收</text>
+</svg>

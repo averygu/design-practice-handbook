@@ -1,0 +1,43 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+<title id="title">操作主次与操作后果</title><desc id="desc">上方分别提出任务优先级和操作后果问题；下方展示准备页和实际删除步骤。原创例子设定为删除讲评草稿不可恢复，原始回答保留。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1200" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 06 · 原创示意 / 动作与后果</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">当前要推进什么，执行后会改变什么</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">主次决定相对强调；后果决定命名、说明、确认和恢复路径。</text>
+<rect x="48" y="196" width="528" height="150" rx="16" fill="#e9f0ea" stroke="#e9f0ea"/>
+<rect x="624" y="196" width="528" height="150" rx="16" fill="#f5ebe5" stroke="#f5ebe5"/>
+<text x="72" y="242" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">问题一：与当前任务的关系</text>
+<text x="72" y="286" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">现在要继续编辑，还是执行删除？</text>
+<text x="648" y="242" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">问题二：执行的实际后果</text>
+<text x="648" y="286" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">改变哪些内容？能否恢复？</text>
+<text x="48" y="404" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">准备讲评时</text>
+<text x="624" y="404" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">确实要删除时</text>
+<rect x="48" y="430" width="528" height="540" rx="16" fill="white" stroke="#c8d4cb"/>
+<rect x="624" y="430" width="528" height="540" rx="16" fill="white" stroke="#c8d4cb"/>
+<text x="76" y="478" font-size="21" font-weight="500" fill="#526a65" text-anchor="start">讲评草稿</text>
+<text x="76" y="533" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">论证结构复盘</text>
+<text x="76" y="585" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">继续整理共同问题与反馈顺序。</text>
+<rect x="76" y="637" width="472" height="52" rx="9" fill="#315e54" stroke="#315e54"/>
+<text x="312.0" y="671" font-size="21" font-weight="600" fill="white" text-anchor="middle">继续编辑</text>
+<rect x="76" y="711" width="472" height="52" rx="9" fill="white" stroke="#526a65"/>
+<text x="312.0" y="745" font-size="21" font-weight="600" fill="#203c3b" text-anchor="middle">查看原始回答</text>
+<line x1="76" y1="810" x2="548" y2="810" stroke="#c8d4cb" stroke-width="1"/>
+<text x="187.0" y="874" font-size="21" font-weight="600" fill="#943c31" text-anchor="middle">永久删除草稿</text>
+<text x="76" y="924" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">入口仍可辨认，名称不隐去后果。</text>
+<text x="652" y="478" font-size="21" font-weight="500" fill="#526a65" text-anchor="start">删除讲评草稿</text>
+<text x="652" y="533" font-size="29" font-weight="700" fill="#203c3b" text-anchor="start">确认永久删除这份草稿</text>
+<text x="652" y="586" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">对象：论证结构复盘</text>
+<text x="652" y="632" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">只删除这份讲评草稿。</text>
+<text x="652" y="675" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">学生原始回答保留。</text>
+<rect x="652" y="704" width="472" height="66" rx="8" fill="#f7ece7" stroke="#f7ece7"/>
+<text x="672" y="746" font-size="22" font-weight="600" fill="#943c31" text-anchor="start">本例设定：删除后不可恢复。</text>
+<rect x="652" y="808" width="472" height="52" rx="9" fill="#943c31" stroke="#943c31"/>
+<text x="888.0" y="842" font-size="21" font-weight="600" fill="white" text-anchor="middle">永久删除这份草稿</text>
+<rect x="652" y="884" width="472" height="52" rx="9" fill="white" stroke="#526a65"/>
+<text x="888.0" y="918" font-size="21" font-weight="600" fill="#203c3b" text-anchor="middle">返回继续编辑</text>
+<text x="48" y="1021" font-size="23" font-weight="600" fill="#203c3b" text-anchor="start">若实际可以恢复，应改写说明并提供恢复路径；停用也不等同于删除。</text>
+<text x="48" y="1066" font-size="22" font-weight="400" fill="#526a65" text-anchor="start">文字外观的动作仍须有正确控件语义；危险或选中状态不能只依赖颜色。</text>
+<line x1="48" y1="1126" x2="1152" y2="1126" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1162" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创条件与构图 · 不是来源弹窗复刻，也不是所有删除场景必须采用的流程</text>
+</svg>

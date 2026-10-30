@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="980" viewBox="0 0 1200 980" role="img" aria-labelledby="title desc">
+<title id="title">先定用途，再为前景和承载面配对</title><desc id="desc">左侧匿名改写练习包含正文、辅助说明、提交动作和提交失败提示。右侧解释相应前景与承载面的颜色角色。状态有明确文字，颜色只是补充。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="980" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 13 · 原创示意 / 颜色与状态</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">先定用途，再为前景和承载面配对</text>
+<text x="48" y="150" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">角色表达使用目的；示例色值与角色数量不构成通用规范。</text>
+<text x="48" y="211" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">代表页面：改写练习</text>
+<text x="666" y="211" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">从内容职责建立角色</text>
+<rect x="48" y="239" width="560" height="579" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="78" y="282" font-size="18" font-weight="700" fill="#526a65" text-anchor="start">练习 03</text>
+<text x="78" y="328" font-size="30" font-weight="700" fill="#203c3b" text-anchor="start">把原因说具体</text>
+<text x="78" y="372" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">补出原因，再提交你的改写。</text>
+<rect x="78" y="404" width="500" height="118" rx="12" fill="#f6f7f3" stroke="#c8d4cb"/>
+<text x="100" y="443" font-size="18" font-weight="700" fill="#526a65" text-anchor="start">你的改写</text>
+<text x="100" y="485" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">这个例子展示了人物的选择。</text>
+<text x="78" y="560" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">草稿已保存在这台设备</text>
+<rect x="78" y="590" width="190" height="56" rx="8" fill="#315e54" stroke="#315e54"/>
+<text x="173" y="627" font-size="23" font-weight="700" fill="white" text-anchor="middle">重试提交</text>
+<rect x="78" y="674" width="500" height="112" rx="8" fill="#fff1f2" stroke="#8f2f39"/>
+<text x="100" y="714" font-size="24" font-weight="700" fill="#8f2f39" text-anchor="start">提交失败</text>
+<text x="100" y="754" font-size="22" font-weight="400" fill="#8f2f39" text-anchor="start">草稿仍保留，请重试。</text>
+<rect x="666" y="259" width="486" height="111" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="686" y="280" width="50" height="50" rx="6" fill="#ffffff" stroke="#203c3b"/>
+<text x="711" y="314" font-size="22" font-weight="700" fill="#203c3b" text-anchor="middle">字</text>
+<text x="756" y="297" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">正文 / 页面</text>
+<text x="756" y="336" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">让任务与答案保持可读。</text>
+<rect x="666" y="391" width="486" height="111" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="686" y="412" width="50" height="50" rx="6" fill="#ffffff" stroke="#526a65"/>
+<text x="711" y="446" font-size="22" font-weight="700" fill="#526a65" text-anchor="middle">字</text>
+<text x="756" y="429" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">辅助 / 页面</text>
+<text x="756" y="468" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">减少强调，不取消可读性。</text>
+<rect x="666" y="523" width="486" height="111" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="686" y="544" width="50" height="50" rx="6" fill="#315e54" stroke="#ffffff"/>
+<text x="711" y="578" font-size="22" font-weight="700" fill="#ffffff" text-anchor="middle">字</text>
+<text x="756" y="561" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">操作文字 / 操作填充</text>
+<text x="756" y="600" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">醒目程度由当前任务决定。</text>
+<rect x="666" y="655" width="486" height="111" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="686" y="676" width="50" height="50" rx="6" fill="#fff1f2" stroke="#8f2f39"/>
+<text x="711" y="710" font-size="22" font-weight="700" fill="#8f2f39" text-anchor="middle">字</text>
+<text x="756" y="693" font-size="22" font-weight="700" fill="#203c3b" text-anchor="start">错误文字 / 错误承载面</text>
+<text x="756" y="732" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">先说明事实，再指出下一步。</text>
+<text x="48" y="866" font-size="23" font-weight="700" fill="#203c3b" text-anchor="start">同一角色可随外观换值；复用色值前，逐一检查实际组合和状态。</text>
+<line x1="48" y1="908" x2="1152" y2="908" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="944" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与构图 · 静态说明图，不是已运行产品或完整无障碍验收</text>
+</svg>

@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+<title id="title">把接触处暗边与宽范围柔影分开判断</title><desc id="desc">左右使用相同练习条目。列表中的条目保留局部接触暗边和较近柔影；临时抬起条目让接触暗边减弱而宽范围柔影展开。下方分别解释两个分量，不要求两者同时变淡。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1200" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 17 · 原创示意 / 深度与层级</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">把接触处暗边与宽范围柔影分开判断</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">这是一组项目内的表现选择，不是物理高度公式，也不规定双阴影必须存在。</text>
+<defs>
+<filter id="temporary" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="13" result="wideBlur"/>
+<feOffset in="wideBlur" dy="12" result="wideOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.17" result="wideColor"/>
+<feComposite in="wideColor" in2="wideOffset" operator="in" result="wide"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="2" result="contactBlur"/>
+<feOffset in="contactBlur" dy="2" result="contactOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.12" result="contactColor"/>
+<feComposite in="contactColor" in2="contactOffset" operator="in" result="contact"/>
+<feMerge><feMergeNode in="wide"/><feMergeNode in="contact"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="rest" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="8" result="wideBlur"/>
+<feOffset in="wideBlur" dy="6" result="wideOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.12" result="wideColor"/>
+<feComposite in="wideColor" in2="wideOffset" operator="in" result="wide"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="contactBlur"/>
+<feOffset in="contactBlur" dy="2" result="contactOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.22" result="contactColor"/>
+<feComposite in="contactColor" in2="contactOffset" operator="in" result="contact"/>
+<feMerge><feMergeNode in="wide"/><feMergeNode in="contact"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="lift" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="18" result="wideBlur"/>
+<feOffset in="wideBlur" dy="19" result="wideOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.16" result="wideColor"/>
+<feComposite in="wideColor" in2="wideOffset" operator="in" result="wide"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="contactBlur"/>
+<feOffset in="contactBlur" dy="1" result="contactOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.035" result="contactColor"/>
+<feComposite in="contactColor" in2="contactOffset" operator="in" result="contact"/>
+<feMerge><feMergeNode in="wide"/><feMergeNode in="contact"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<text x="48" y="216" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">列表中的内容</text>
+<rect x="48" y="248" width="528" height="380" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="76" y="290" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">靠近承载面</text>
+<g filter="url(#rest)">
+<rect x="106" y="340" width="412" height="188" rx="12" fill="white" stroke="#c8d4cb"/>
+</g>
+<text x="130" y="384" font-size="19" font-weight="500" fill="#526a65" text-anchor="start">练习 02</text>
+<text x="130" y="429" font-size="29" font-weight="700" fill="#203c3b" text-anchor="start">补出具体原因</text>
+<text x="130" y="479" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">把理由写成可理解的解释。</text>
+<text x="76" y="591" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">静态示意；没有运行拖动操作</text>
+<text x="624" y="216" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">临时抬起的内容</text>
+<rect x="624" y="248" width="528" height="380" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="652" y="290" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">暂时与原位置分离</text>
+<g filter="url(#lift)">
+<rect x="682" y="340" width="412" height="188" rx="12" fill="white" stroke="#c8d4cb"/>
+</g>
+<text x="706" y="384" font-size="19" font-weight="500" fill="#526a65" text-anchor="start">练习 02</text>
+<text x="706" y="429" font-size="29" font-weight="700" fill="#203c3b" text-anchor="start">补出具体原因</text>
+<text x="706" y="479" font-size="21" font-weight="400" fill="#203c3b" text-anchor="start">把理由写成可理解的解释。</text>
+<text x="652" y="591" font-size="19" font-weight="400" fill="#526a65" text-anchor="start">静态示意；没有运行拖动操作</text>
+<rect x="48" y="676" width="528" height="210" rx="12" fill="white" stroke="#c8d4cb"/>
+<rect x="624" y="676" width="528" height="210" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="76" y="722" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">接触处暗边</text>
+<text x="76" y="764" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">让靠近表面的局部边缘清楚。</text>
+<text x="76" y="805" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">在本例抬起时减弱，</text>
+<text x="76" y="843" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">不再强调紧贴承载面的关系。</text>
+<text x="652" y="722" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">宽范围柔影</text>
+<text x="652" y="764" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">提供较宽范围的分离线索。</text>
+<text x="652" y="805" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">在本例抬起时保留并展开，</text>
+<text x="652" y="843" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">不要求跟着接触暗边一起变淡。</text>
+<rect x="48" y="932" width="1104" height="134" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="76" y="976" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">变弱的是哪一部分？先回答这个问题。</text>
+<text x="76" y="1017" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">再检查对象状态、承载背景、主题和实际渲染；不以“越深越高级”作判断。</text>
+<line x1="48" y1="1128" x2="1152" y2="1128" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1164" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与构图 · 静态关系示意，不代表真实操作、无障碍验收或学习结果</text>
+</svg>

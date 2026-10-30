@@ -1,0 +1,97 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="1200" viewBox="0 0 1200 1200" role="img" aria-labelledby="title desc">
+<title id="title">临时层、已选内容与焦点，各说一件事</title><desc id="desc">左侧练习列表中第二行有已选标记，调整安排按钮下方展开带边界与阴影的面板。面板中移动到明天一项有独立焦点环。右侧分别说明普通内容、临时层和键盘焦点。</desc>
+<style>text{font-family:-apple-system,BlinkMacSystemFont,"PingFang SC","Noto Sans CJK SC",sans-serif}</style>
+<rect width="1200" height="1200" fill="#f6f7f3"/>
+<text x="48" y="52" font-size="17" font-weight="700" fill="#315e54" text-anchor="start">图 16 · 原创示意 / 深度与层级</text>
+<text x="48" y="106" font-size="36" font-weight="700" fill="#203c3b" text-anchor="start">临时层、已选内容与焦点，各说一件事</text>
+<text x="48" y="148" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">匿名教师工作台；展开面板的外观不等于菜单或对话框行为已经实现。</text>
+<defs>
+<filter id="temporary" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="13" result="wideBlur"/>
+<feOffset in="wideBlur" dy="12" result="wideOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.17" result="wideColor"/>
+<feComposite in="wideColor" in2="wideOffset" operator="in" result="wide"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="2" result="contactBlur"/>
+<feOffset in="contactBlur" dy="2" result="contactOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.12" result="contactColor"/>
+<feComposite in="contactColor" in2="contactOffset" operator="in" result="contact"/>
+<feMerge><feMergeNode in="wide"/><feMergeNode in="contact"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="rest" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="8" result="wideBlur"/>
+<feOffset in="wideBlur" dy="6" result="wideOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.12" result="wideColor"/>
+<feComposite in="wideColor" in2="wideOffset" operator="in" result="wide"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="contactBlur"/>
+<feOffset in="contactBlur" dy="2" result="contactOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.22" result="contactColor"/>
+<feComposite in="contactColor" in2="contactOffset" operator="in" result="contact"/>
+<feMerge><feMergeNode in="wide"/><feMergeNode in="contact"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+<filter id="lift" x="-30%" y="-40%" width="160%" height="190%" color-interpolation-filters="sRGB">
+<feGaussianBlur in="SourceAlpha" stdDeviation="18" result="wideBlur"/>
+<feOffset in="wideBlur" dy="19" result="wideOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.16" result="wideColor"/>
+<feComposite in="wideColor" in2="wideOffset" operator="in" result="wide"/>
+<feGaussianBlur in="SourceAlpha" stdDeviation="1.2" result="contactBlur"/>
+<feOffset in="contactBlur" dy="1" result="contactOffset"/>
+<feFlood flood-color="#203c3b" flood-opacity="0.035" result="contactColor"/>
+<feComposite in="contactColor" in2="contactOffset" operator="in" result="contact"/>
+<feMerge><feMergeNode in="wide"/><feMergeNode in="contact"/><feMergeNode in="SourceGraphic"/></feMerge>
+</filter>
+</defs>
+<rect x="48" y="218" width="708" height="640" rx="12" fill="white" stroke="#c8d4cb"/>
+<text x="80" y="268" font-size="29" font-weight="700" fill="#203c3b" text-anchor="start">安排下一次练习</text>
+<text x="80" y="307" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">先选择练习，再调整时间。</text>
+<line x1="80" y1="335" x2="724" y2="335" stroke="#c8d4cb" stroke-width="1"/>
+<text x="100" y="388" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">01   识别段落主张</text>
+<text x="650" y="388" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">今天</text>
+<line x1="80" y1="421" x2="724" y2="421" stroke="#c8d4cb" stroke-width="1"/>
+<rect x="80" y="438" width="644" height="100" rx="8" fill="#e9f0ea" stroke="#e9f0ea"/>
+<rect x="80" y="438" width="5" height="100" rx="0" fill="#315e54" stroke="#315e54"/>
+<text x="102" y="478" font-size="23" font-weight="650" fill="#203c3b" text-anchor="start">02   补出具体原因</text>
+<text x="102" y="514" font-size="19" font-weight="600" fill="#315e54" text-anchor="start">已选</text>
+<rect x="532" y="458" width="168" height="54" rx="8" fill="#315e54" stroke="#315e54"/>
+<text x="616.0" y="493" font-size="21" font-weight="650" fill="white" text-anchor="middle">调整安排</text>
+<text x="100" y="596" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">03   检查论据关联</text>
+<text x="650" y="596" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">明天</text>
+<line x1="80" y1="634" x2="724" y2="634" stroke="#c8d4cb" stroke-width="1"/>
+<text x="100" y="685" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">04   独立完成改写</text>
+<text x="650" y="685" font-size="20" font-weight="400" fill="#526a65" text-anchor="start">周末</text>
+<g filter="url(#temporary)">
+<rect x="414" y="526" width="286" height="245" rx="12" fill="white" stroke="#c8d4cb"/>
+</g>
+<text x="436" y="565" font-size="21" font-weight="700" fill="#203c3b" text-anchor="start">调整已选练习</text>
+<line x1="434" y1="582" x2="680" y2="582" stroke="#c8d4cb" stroke-width="1"/>
+<rect x="430" y="598" width="254" height="55" rx="8" fill="none" stroke="#315e54" stroke-width="3"/>
+<text x="448" y="633" font-size="22" font-weight="650" fill="#203c3b" text-anchor="start">移动到明天</text>
+<text x="448" y="697" font-size="22" font-weight="400" fill="#203c3b" text-anchor="start">选择其他日期</text>
+<text x="448" y="744" font-size="21" font-weight="500" fill="#315e54" text-anchor="start">关闭</text>
+<circle cx="740" cy="385" r="16" fill="#315e54"/>
+<text x="740" y="391" font-size="18" font-weight="700" fill="white" text-anchor="middle">1</text>
+<circle cx="710" cy="554" r="16" fill="#315e54"/>
+<text x="710" y="560" font-size="18" font-weight="700" fill="white" text-anchor="middle">2</text>
+<circle cx="700" cy="626" r="16" fill="#315e54"/>
+<text x="700" y="632" font-size="18" font-weight="700" fill="white" text-anchor="middle">3</text>
+<circle cx="810" cy="268" r="16" fill="#315e54"/>
+<text x="810" y="274" font-size="18" font-weight="700" fill="white" text-anchor="middle">1</text>
+<text x="840" y="275" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">普通内容</text>
+<text x="790" y="330" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">列表仍属于同一页面。</text>
+<text x="790" y="368" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">已选标记说明操作对象。</text>
+<circle cx="810" cy="464" r="16" fill="#315e54"/>
+<text x="810" y="470" font-size="18" font-weight="700" fill="white" text-anchor="middle">2</text>
+<text x="840" y="471" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">临时层</text>
+<text x="790" y="526" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">边界与阴影帮助分离。</text>
+<text x="790" y="564" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">位置说明它从哪里出现。</text>
+<circle cx="810" cy="660" r="16" fill="#315e54"/>
+<text x="810" y="666" font-size="18" font-weight="700" fill="white" text-anchor="middle">3</text>
+<text x="840" y="667" font-size="25" font-weight="700" fill="#203c3b" text-anchor="start">键盘焦点</text>
+<text x="790" y="722" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">当前操作有独立指示。</text>
+<text x="790" y="760" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">它不等于“已选练习”。</text>
+<rect x="48" y="912" width="1104" height="148" rx="12" fill="#e9f0ea" stroke="#e9f0ea"/>
+<text x="76" y="956" font-size="26" font-weight="700" fill="#203c3b" text-anchor="start">先分清事实，再选择视觉效果</text>
+<text x="76" y="998" font-size="23" font-weight="400" fill="#203c3b" text-anchor="start">选择、展开、焦点和完成是不同状态。</text>
+<text x="76" y="1035" font-size="21" font-weight="400" fill="#526a65" text-anchor="start">一次加深阴影，不能替代它们各自的含义与实际行为。</text>
+<line x1="48" y1="1128" x2="1152" y2="1128" stroke="#c8d4cb" stroke-width="1"/>
+<text x="48" y="1164" font-size="17" font-weight="400" fill="#526a65" text-anchor="start">原创场景与构图 · 静态关系示意，不代表真实操作、无障碍验收或学习结果</text>
+</svg>
